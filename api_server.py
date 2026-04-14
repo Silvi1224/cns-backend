@@ -7,17 +7,18 @@ from recommender import show_recommendations
 app = Flask(__name__)
 CORS(app)
 
-# CACHE
+# Cache
+
 cache = {}
 
+# Home route
 
-# HOME ROUTE
 @app.route("/")
 def home():
     return jsonify({"message": "Server is working"})
 
+# Main api
 
-# MAIN API
 @app.route("/recommend", methods=["POST"])
 def recommend():
     try:
@@ -28,6 +29,7 @@ def recommend():
         category = data.get("category", None)
 
         # Normalize input
+        
         user_text = str(user_text).strip().lower()
 
         if category in ["", "Any"]:
@@ -37,54 +39,51 @@ def recommend():
             content_type = None
 
         # Cache key
+        
         cache_key = f"{user_text}-{content_type}-{category}"
 
-        # ❗ Cache disabled for debugging (you can enable later)
-        # if cache_key in cache:
-        #     print("⚡ Cache hit")
-        #     return jsonify(cache[cache_key])
-
         # Detect mood
+        
         detected_mood = detect_mood(user_text)
 
         # Get recommendations
+        
         movies, books = show_recommendations(
             detected_mood,
             content_type,
             category
         )
 
-        # DEBUG
+        # Debug
+        
         print("Detected mood:", detected_mood)
         print("Movies found:", len(movies))
         print("Books found:", len(books))
 
-        # ==============================
-        # 🎬 MOVIES FORMAT (UPDATED)
-        # ==============================
+        # Movies format
+
         movie_results = []
         if movies is not None and not movies.empty:
             for _, row in movies.iterrows():
                 movie_results.append({
                     "movie_name": str(row.get("movie_name") or "N/A"),
                     "release_year": str(row.get("release_year") or "N/A"),
-                    "type": "Movie",  # ✅ FIXED (IMPORTANT)
+                    "type": "Movie",
                     "category": str(row.get("category") or "N/A").title(),
                     "mood": str(row.get("mood") or "N/A").title(),
                     "ratings": str(row.get("ratings") or "N/A"),
                     "poster_url": str(row.get("poster_url") or "")
                 })
 
-        # ==============================
-        # 📚 BOOKS FORMAT (UPDATED)
-        # ==============================
+        # Books format
+
         book_results = []
         if books is not None and not books.empty:
             for _, row in books.iterrows():
                 book_results.append({
                     "book_name": str(row.get("book_name") or "N/A"),
                     "writer_name": str(row.get("writer_name") or "N/A"),
-                    "type": "Book",  # ✅ FIXED (IMPORTANT)
+                    "type": "Book", 
                     "category": str(row.get("category") or "N/A").title(),
                     "mood": str(row.get("mood") or "N/A").title(),
                     "cover_url": str(row.get("cover_url") or "")
@@ -102,17 +101,16 @@ def recommend():
         return jsonify(result)
 
     except Exception as e:
-        print("❌ ERROR:", str(e))
+        print("ERROR:", str(e))
         return jsonify({
             "error": "Something went wrong",
             "details": str(e)
         }), 500
 
-
-# RUN SERVER
+# Run server
 
 import os
 
 if __name__ == "__main__":
-port = int(os.environ.get("PORT", 5000))
-app.run(host="0.0.0.0", port=port)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
