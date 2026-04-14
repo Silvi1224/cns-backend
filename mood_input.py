@@ -1,4 +1,3 @@
-# IMPORTS 
 import pickle
 import re
 from collections import defaultdict
@@ -7,14 +6,14 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-#  LOAD TRAINED MODEL 
+#  Load train model 
 model = pickle.load(open("ml_model.pkl", "rb"))
 
 # Load cleaned mood dataset
 data = pd.read_csv("mood_dataset_fixed.csv", encoding="utf-8")
 
 
-#  TEXT CLEANING 
+#  Text clean
 def clean_text(text):
     text = text.lower()
     text = re.sub(r'[^a-zA-Z\s]', '', text)
@@ -25,7 +24,7 @@ def clean_text(text):
 data["clean_text"] = data["text"].apply(clean_text)
 
 
-#  SIMILARITY ENGINE 
+#  Similarity engine 
 similarity_vectorizer = TfidfVectorizer(
     ngram_range=(1, 2),
     max_features=5000,
@@ -35,7 +34,7 @@ similarity_vectorizer = TfidfVectorizer(
 dataset_vectors = similarity_vectorizer.fit_transform(data["clean_text"])
 
 
-#  KEYWORD MOOD DICTIONARY 
+#  Keywords for moods
 MOOD_KEYWORDS = {
 
     "Fun": [
@@ -96,7 +95,7 @@ MOOD_KEYWORDS = {
 }
 
 
-#  KEYWORD DETECTION 
+# Detect keyword
 def keyword_detect(text):
     words = text.split()
     scores = defaultdict(int)
@@ -111,7 +110,7 @@ def keyword_detect(text):
 
     return None
 
-#  SIMILARITY DETECTION 
+# Detect similarity 
 
 def similarity_detect(text):
 
@@ -128,26 +127,25 @@ def similarity_detect(text):
 
     return None
 
-
-#  FINAL MOOD DETECTOR 
+#  Final mood detector 
 
 def detect_mood(user_text):
 
     cleaned = clean_text(user_text)
 
-    #  KEYWORD PRIORITY
+    #  Keyword priority
 
     keyword_mood = keyword_detect(cleaned)
     if keyword_mood:
         return keyword_mood
 
-    #  SIMILARITY MATCH
+    #  Similarity match
 
     similarity_mood = similarity_detect(cleaned)
     if similarity_mood:
         return similarity_mood
 
-    #  ML FALLBACK (LOW PRIORITY)
+    #  ML Fallback (Low priority)
 
     try:
         probabilities = model.predict_proba([cleaned])[0]
@@ -159,6 +157,6 @@ def detect_mood(user_text):
     except:
         pass
 
-    #  FINAL DEFAULT
+    # Final default
     
     return "Calm"
