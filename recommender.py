@@ -1,15 +1,12 @@
 import pandas as pd
 
-# ==============================
 # Utility Function
-# ==============================
+
 def clean_text(value):
     return str(value).strip().lower()
 
+# Load CSV 
 
-# ==============================
-# Load CSV (with fallback)
-# ==============================
 def load_csv(primary, fallback):
     try:
         print(f"Trying to load: {primary}")
@@ -32,9 +29,8 @@ books_df = load_csv(
     "books_recommendation_fixed.csv"
 )
 
-# ==============================
 # Preprocess
-# ==============================
+
 for df in [movies_df, books_df]:
     df.columns = df.columns.str.strip()
 
@@ -44,10 +40,8 @@ books_df["mood"] = books_df["mood"].astype(str).str.strip().str.lower()
 movies_df["category"] = movies_df["category"].astype(str).str.strip().str.lower()
 books_df["category"] = books_df["category"].astype(str).str.strip().str.lower()
 
+# Mood Filter 
 
-# ==============================
-# 🔥 SMART Mood Filter (FIXED)
-# ==============================
 def filter_by_mood(mood):
     mood = clean_text(mood)
 
@@ -71,10 +65,8 @@ def filter_by_mood(mood):
 
     return filtered_movies, filtered_books
 
-
-# ==============================
 # Filter by Type
-# ==============================
+
 def apply_type_filter(movies, books, content_type):
     content_type = clean_text(content_type)
 
@@ -86,10 +78,8 @@ def apply_type_filter(movies, books, content_type):
 
     return movies, books
 
+# EXACT Category Filter
 
-# ==============================
-# ✅ EXACT Category Filter
-# ==============================
 def apply_category_filter(movies, books, category):
     category = clean_text(category)
 
@@ -104,10 +94,8 @@ def apply_category_filter(movies, books, category):
 
     return movies, books
 
-
-# ==============================
 # Main Function
-# ==============================
+
 def show_recommendations(mood, content_type=None, category=None):
 
     # Step 1: Mood filter
@@ -121,7 +109,7 @@ def show_recommendations(mood, content_type=None, category=None):
     if category:
         movies, books = apply_category_filter(movies, books, category)
 
-    # 🔥 Shuffle (for better UX)
+    # Shuffle (for better UX)
     if not movies.empty:
         movies = movies.sample(frac=1)
 
@@ -131,5 +119,5 @@ def show_recommendations(mood, content_type=None, category=None):
     print("FINAL Movies:", len(movies))
     print("FINAL Books:", len(books))
 
-    # ✅ RETURN ALL (NO LIMIT)
+    # Return all
     return movies.reset_index(drop=True), books.reset_index(drop=True)
