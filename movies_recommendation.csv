@@ -1,0 +1,900 @@
+movie_name,release_year,type,category,mood,ratings,poster_url
+গোলাপী এখন ট্রেনে,1979,Movie,Bangladeshi,Fun,google_user:92% | imdb:8.2,https://upload.wikimedia.org/wikipedia/bn/8/8d/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A7%80_%E0%A6%8F%E0%A6%96%E0%A6%A8_%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%87_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.jpeg
+হঠাৎ বৃষ্টি,1998,Movie,Bangladeshi,Fun,google_user:93% | imdb:8.1,https://upload.wikimedia.org/wikipedia/bn/2/29/%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E_%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%9B%E0%A6%AC%E0%A6%BF%E0%A6%B0_%E0%A6%A1%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg
+ভূতের ভবিষ্যৎ,2012,Movie,Bangladeshi,Fun,google_user:94% | imdb:8.1,"https://m.media-amazon.com/images/M/MV5BMzQxYjExMTMtMjhiMy00Yzc1LWJhMzUtMWZlZGMyODc2YmE0XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+ব্যাচেলর,2004,Movie,Bangladeshi,Fun,google_user:96% | imdb:7.5,https://upload.wikimedia.org/wikipedia/en/8/84/Bachelor_%282004_film%29.jpg
+স্বপ্নের ঠিকানা,1995,Movie,Bangladeshi,Fun,imdb:7.5,https://upload.wikimedia.org/wikipedia/bn/4/46/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE.jpeg
+Kung Fu Panda,2008,Movie,English,Fun,google_user:83% | imdb:7.6 | rt:87%,https://upload.wikimedia.org/wikipedia/en/9/99/Kung_Fu_Panda_Game_Cover.jpg
+Mean Girls,2004,Movie,English,Fun,google_user:86% | imdb:7.1 | rt:84%,"https://m.media-amazon.com/images/M/MV5BYzlhMTkxZWMtYzQwNi00OWI4LWI2ZGQtOWQ0OGM4NDlkYTdiXkEyXkFqcGc@._V1_QL75_UY281_CR8,0,190,281_.jpg"
+Thelma,2024,Movie,English,Fun,google_user:76% | imdb:7.0 | rt:98%,https://m.media-amazon.com/images/M/MV5BYTA3MjYwNmEtYmU0Zi00NjVkLWE2YTctNDYwZTAxMmRkMjc1XkEyXkFqcGc@._V1_QL75_UX158_.jpg
+Hit Man,2023,Movie,English,Fun,google_user:63% | imdb:6.8 | rt:95%,https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Hit_man_2024_film.jpg/250px-Hit_man_2024_film.jpg
+Bridesmaids,2011,Movie,English,Fun,google_user:71% | imdb:6.8 | rt:89%,https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_FMjpg_UX1000_.jpg
+A Story of Yonosuke,2013,Movie,Japanese,Fun,google_user:81% | imdb:7.6 | rt:86%,https://m.media-amazon.com/images/M/MV5BNWY2ZDcwZDYtNjQwOC00OWE1LTgxNzYtZDI2NTU0MWIwMWJhXkEyXkFqcGc@._V1_.jpg
+University of Laughs,2004,Movie,Japanese,Fun,google_user:83% | imdb:7.4 | rt:88%,https://upload.wikimedia.org/wikipedia/en/thumb/2/23/University_of_Laughs_film_DVD_cover_%282004%29.jpg/250px-University_of_Laughs_film_DVD_cover_%282004%29.jpg
+Summer Time Machine Blues,2005,Movie,Japanese,Fun,google_user:86% | imdb:7.0 | rt:87%,https://m.media-amazon.com/images/M/MV5BZDUyY2Q3NzctOTFmMi00MDM2LTgyNTQtNzY4MjZjZmZjY2UwXkEyXkFqcGc@._V1_.jpg
+Kamome Diner,2006,Movie,Japanese,Fun,google_user:85% | imdb:7.2,https://m.media-amazon.com/images/M/MV5BOTQwMmFhMDEtZmJiMi00MmQzLTg5MmMtZmI4YWZiNTAwY2FjXkEyXkFqcGc@._V1_.jpg
+Rent-a-Cat,2012,Movie,Japanese,Fun,google_user:78% | imdb:6.9 | rt:65%,https://m.media-amazon.com/images/M/MV5BYzMyNjcyMTktMjdlZS00NDNkLWFmZjktZjljMTgzZjA5MmFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+I Can Speak,2017,Movie,Korean,Fun,google_user:92% | imdb:7.5 | rt:94%,https://m.media-amazon.com/images/M/MV5BODNhOWEzZDgtMmMyYi00NDNlLThmYWYtZGIyYjEyNTdkYzMxXkEyXkFqcGc@._V1_.jpg
+My Annoying Brother,2016,Movie,Korean,Fun,google_user:92% | imdb:7.3 | rt:87%,https://m.media-amazon.com/images/M/MV5BMTc5MDcwNDQ4Nl5BMl5BanBnXkFtZTgwNzA4NTEwMTI@._V1_.jpg
+Hello Ghost,2010,Movie,Korean,Fun,google_user:91% | imdb:7.5 | rt:86%,https://m.media-amazon.com/images/M/MV5BNDAyOTY2MzE4N15BMl5BanBnXkFtZTgwMjY0OTI5NDE@._V1_.jpg
+Scandal Makers,2008,Movie,Korean,Fun,google_user:91% | imdb:7.2 | rt:82%,https://m.media-amazon.com/images/M/MV5BMTM5MjQ5Nzk4NF5BMl5BanBnXkFtZTgwODIwNzUxMTE@._V1_.jpg
+Zombie for Sale,2019,Movie,Korean,Fun,google_user:86% | imdb:6.7 | rt:89%,https://m.media-amazon.com/images/M/MV5BOWY1YzUzNzQtYWI5MC00MTI5LThhNzctMzkyZDgyOGVjODQ2XkEyXkFqcGc@._V1_.jpg
+3 Idiots,2009,Movie,Indian,Fun,google_user:93% | imdb:8.4 | rt:100%,https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg
+Munna Bhai M.B.B.S.,2003,Movie,Indian,Fun,google_user:88% | imdb:8.2 | rt:94%,https://m.media-amazon.com/images/M/MV5BMDE3ZDYzZDctOWJiYS00MTE5LTk0NzgtOThhZTRmZDQ2ZmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Golmaal: Fun Unlimited,2006,Movie,Indian,Fun,google_user:86% | imdb:7.5 | rt:75%,https://m.media-amazon.com/images/M/MV5BZWMwZTM3YzEtNzgzMi00YmI3LTkxN2EtZDY1OGM0MDQ2Y2NkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Garam Masala,2005,Movie,Indian,Fun,google_user:89% | imdb:6.8 | rt:73%,https://upload.wikimedia.org/wikipedia/en/a/ac/GaramMasala_movieposter.jpg
+The Boy and the Beast,2015,Movie,Anime,Fun,google_user:88% | imdb:7.6 | rt:90%,https://m.media-amazon.com/images/M/MV5BM2MxZjM5NjktNGM4Ny00YjdmLWE5NWUtMDRlODY5ZDg0NWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+One Piece Film: Z,2012,Movie,Anime,Fun,google_user:84% | imdb:7.7 | rt:79%,https://m.media-amazon.com/images/M/MV5BMGZmMWUyMDAtOWI0ZC00MzI3LWJlZjMtOWI0ZTMyNzQ1YWU1XkEyXkFqcGc@._V1_.jpg
+Night is Short Walk on Girl,2017,Movie,Anime,Fun,google_user:90% | imdb:7.5 | rt:90%,https://m.media-amazon.com/images/M/MV5BMTU3ZWNkOWEtMjAyMC00NThhLThkZjEtMTJmZjFmN2UwMWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Redline,2009,Movie,Anime,Fun,google_user:86% | imdb:7.5 | rt:70%,https://m.media-amazon.com/images/M/MV5BNDA1ODI3MTcyNl5BMl5BanBnXkFtZTcwNDkyODYwNw@@._V1_.jpg
+Summer Wars,2009,Movie,Anime,Fun,google_user:83% | imdb:7.4 | rt:81%,https://m.media-amazon.com/images/M/MV5BZGQ4MWE3Y2ItYjllYi00ZTVlLTljMTUtNTUwOWMwZWIyYmM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+জীবন থেকে নেওয়া,1970,Movie,Bangladeshi,Calm,google_user:95% | imdb:9.3,https://upload.wikimedia.org/wikipedia/bn/1/1b/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8_%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87_%E0%A6%A8%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg
+মনপুরা,2009,Movie,Bangladeshi,Calm,google_user:97% | imdb:8.8 | rt:79%,"https://m.media-amazon.com/images/M/MV5BYmM4YWFkYzYtMjUwZS00NDhlLWJhNTYtNWI1ZmUwYmYzNmM2XkEyXkFqcGc@._V1_QL75_UY281_CR7,0,190,281_.jpg"
+মাটির ময়না,2002,Movie,Bangladeshi,Calm,google_user:93% | imdb:8.4 | rt:89%,https://upload.wikimedia.org/wikipedia/bn/4/41/%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0_%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A6%BE_%28%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A8%29_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.jpg
+উৎসব,2025,Movie,Bangladeshi,Calm,google_user:98% | imdb:8.4,https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_.jpg
+দারুচিনি দীপ,2007,Movie,Bangladeshi,Calm,google_user:97% | imdb:7.9,https://m.media-amazon.com/images/M/MV5BYjYyZjYwZDctNTBkYS00ZDY5LThlNDktYTY1NGVhMThhMWM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Before Sunrise,1995,Movie,English,Calm,google_user:89% | imdb:8.1 | rt:100%,https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Ratatouille,2007,Movie,English,Calm,google_user:90% | imdb:8.1 | rt:96%,https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg
+Manchester by the Sea,2016,Movie,English,Calm,google_user:75% | imdb:7.8 | rt:96%,https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_.jpg
+Finding Dory,2016,Movie,English,Calm,google_user:80% | imdb:7.2 | rt:94%,https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Secret Life of Walter Mitty,2013,Movie,English,Calm,google_user:86% | imdb:7.3 | rt:52%,https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_FMjpg_UX1000_.jpg
+Tokyo Story,1953,Movie,Japanese,Calm,google_user:89% | imdb:8.1 | rt:100%,https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_.jpg
+Still Walking,2008,Movie,Japanese,Calm,google_user:84% | imdb:7.9 | rt:100%,https://m.media-amazon.com/images/M/MV5BOTFkZjE4ZGMtODc3MC00ZDllLTkxMTAtZTk0NTkzYTYyMTYwXkEyXkFqcGc@._V1_.jpg
+Our Little Sister,2015,Movie,Japanese,Calm,google_user:84% | imdb:7.6 | rt:93%,https://m.media-amazon.com/images/M/MV5BMjE0MjYyMjQ4OF5BMl5BanBnXkFtZTgwMjk5ODI2ODE@._V1_.jpg
+Mushishi,2006,Movie,Japanese,Calm,google_user:77% | imdb:6.0 | rt:51%,https://m.media-amazon.com/images/M/MV5BMjkzMTM0OTY3OV5BMl5BanBnXkFtZTcwNDAzMzg3Mg@@._V1_.jpg
+After Life,2009,Movie,Japanese,Calm,google_user:76% | imdb:5.9 | rt:24%,https://m.media-amazon.com/images/M/MV5BMTk0NDUzNTU5NV5BMl5BanBnXkFtZTcwNDE4ODIzMw@@._V1_.jpg
+Little Forest,2018,Movie,Korean,Calm,google_user:92% | imdb:7.3 | rt:84%,https://m.media-amazon.com/images/M/MV5BNTE1MmZhNDQtOTlkZi00Y2M0LTlhZWItYzMxZmUyY2EzNjM4XkEyXkFqcGc@._V1_.jpg
+Be With You,2018,Movie,Korean,Calm,google_user:82% | imdb:7.7 | rt:80%,https://m.media-amazon.com/images/M/MV5BYjdkODkzMTItNWQ0Ny00YjRlLTgzYTktYmE5N2NkZThhYTk1XkEyXkFqcGc@._V1_.jpg
+200 Pounds Beauty,2006,Movie,Korean,Calm,google_user:90% | imdb:6.7 | rt:79%,https://m.media-amazon.com/images/M/MV5BYjYwNDUyMTItYTZiNS00NWExLTk1MWMtMDU1MzZiNWYwMDAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+A Year-End Medley,2021,Movie,Korean,Calm,google_user:90% | imdb:6.9,https://upload.wikimedia.org/wikipedia/en/thumb/4/45/A_Year-End_Medley_film_poster.jpg/250px-A_Year-End_Medley_film_poster.jpg
+Samjin Company English Class,2020,Movie,Korean,Calm,google_user:76% | imdb:6.6,https://m.media-amazon.com/images/M/MV5BY2ViMjRjNDUtMGVkZC00ZWZiLTk1ZTctNmNhM2NiODlkY2I4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+12th Fail,2023,Movie,Indian,Calm,google_user:90% | imdb:8.7 | rt:91%,https://m.media-amazon.com/images/M/MV5BMTk0ZWQ5NDEtNWRkMi00ZDA3LThjMzgtZGE4ZmRhY2M3N2MyXkEyXkFqcGc@._V1_.jpg
+Taare Zameen Par,2007,Movie,Indian,Calm,google_user:94% | imdb:8.3 | rt:93%,https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_.jpg
+English Vinglish,2012,Movie,Indian,Calm,google_user:89% | imdb:7.8 | rt:83%,https://m.media-amazon.com/images/M/MV5BMTg1YTNhZDYtYjIxMS00MGY5LTgwODctYWQ1NTU1ZGE4MjFmXkEyXkFqcGc@._V1_.jpg
+Hindi Medium,2017,Movie,Indian,Calm,google_user:90% | imdb:7.9 | rt:83%,https://m.media-amazon.com/images/M/MV5BNGY5OGY1NDgtN2IyMC00NmMzLWI5NzEtN2JlODE2N2Y1NWRlXkEyXkFqcGc@._V1_.jpg
+Piku,2015,Movie,Indian,Calm,google_user:86% | imdb:7.6 | rt:90%,https://m.media-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_.jpg
+My Neighbor Totoro,1988,Movie,Anime,Calm,google_user:93% | imdb:8.1 | rt:93%,https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Whisper of the Heart,1995,Movie,Anime,Calm,google_user:90% | imdb:7.8 | rt:95%,https://m.media-amazon.com/images/M/MV5BZWVlOGNlYjgtYWE4Yi00MjdiLWE1MTEtZTRmNzI1ODk5NzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Porco Rosso,1992,Movie,Anime,Calm,google_user:87% | imdb:7.7 | rt:95%,https://m.media-amazon.com/images/M/MV5BOGNjMDM1NWEtMzI4OC00YzdlLWJmMjktNmJiYTlkNTNlODM0XkEyXkFqcGc@._V1_.jpg
+A Sign of Affection,2024,Movie,Anime,Calm,google_user:95% | imdb:7.8,https://m.media-amazon.com/images/M/MV5BMDMyNTYwZjQtYTllMi00ZGVlLTg4NzUtZWE5MDMxZjUzZjc3XkEyXkFqcGc@._V1_.jpg
+Garden of Words,2013,Movie,Anime,Calm,google_user:89% | imdb:7.4 | rt:84%,https://m.media-amazon.com/images/M/MV5BYjdiMDdlMDItOGM4Ny00YmE4LTk0MTEtMGRhM2Y4OWZkZDZkXkEyXkFqcGc@._V1_.jpg
+The Silence of the Lambs,1991,Movie,English,Dark-Gritty,google_user:91% | imdb:8.6 | rt:95%,https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg
+Memento,2000,Movie,English,Dark-Gritty,google_user:90% | imdb:8.4 | rt:93%,https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Taxi Driver,1976,Movie,English,Dark-Gritty,google_user:88% | imdb:8.2 | rt:89%,https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg
+Requiem for a Dream,2000,Movie,English,Dark-Gritty,google_user:89% | imdb:8.3 | rt:80%,https://m.media-amazon.com/images/M/MV5BY2RkZTcxMjQtN2Y2MS00MzMxLWIyYmQtNmI3ZDBhMWE5NDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Sixth Sense,1999,Movie,English,Dark-Gritty,google_user:88% | imdb:8.2 | rt:86%,https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Parasite,2019,Movie,Korean,Dark-Gritty,google_user:89% | imdb:8.5 | rt:99%,https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg
+Memories of Murder,2003,Movie,Korean,Dark-Gritty,google_user:94% | imdb:8.1 | rt:95%,https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Handmaiden,2016,Movie,Korean,Dark-Gritty,google_user:90% | imdb:8.1 | rt:96%,https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg
+Oldboy,2003,Movie,Korean,Dark-Gritty,google_user:90% | imdb:8.3 | rt:82%,https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_.jpg
+I Saw the Devil,2010,Movie,Korean,Dark-Gritty,google_user:91% | imdb:7.8 | rt:83%,https://upload.wikimedia.org/wikipedia/en/9/91/I_Saw_the_Devil_film_poster.jpg
+Confessions,2010,Movie,Japanese,Dark-Gritty,google_user:90% | imdb:7.7 | rt:81%,https://upload.wikimedia.org/wikipedia/en/c/cf/Confessions_%282010%29_film_poster.jpg
+Audition,1999,Movie,Japanese,Dark-Gritty,google_user:82% | imdb:7.1 | rt:81%,https://m.media-amazon.com/images/M/MV5BZjJiZjJiNDYtZmJmYi00ZWIzLTljZGYtNjlmNjEwYTJmMmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Ju-on: The Grudge,2002,Movie,Japanese,Dark-Gritty,google_user:80% | imdb:6.7 | rt:80%,https://m.media-amazon.com/images/M/MV5BOWE4NGE1NGYtMmRjNS00YjgyLTkxZmYtN2Y1OWY4MzcwMTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Noriko's Dinner Table,2005,Movie,Japanese,Dark-Gritty,google_user:89% | imdb:7.0 | rt:64%,https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/NorikosTable.jpg/250px-NorikosTable.jpg
+Creepy,2016,Movie,Japanese,Dark-Gritty,google_user:63% | imdb:6.4 | rt:91%,https://m.media-amazon.com/images/M/MV5BMzRiYWQ0N2EtZTNjOC00OWJjLWJiOTktYjMzN2YwNzA3NmMzXkEyXkFqcGc@._V1_.jpg
+Tumbbad,2018,Movie,Indian,Dark-Gritty,google_user:94% | imdb:8.2 | rt:87%,https://upload.wikimedia.org/wikipedia/en/4/41/Tumbbad_poster.jpg
+Ratsasan,2018,Movie,Indian,Dark-Gritty,google_user:83% | imdb:8.3 | rt:94%,https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ratsasan_poster.jpg/250px-Ratsasan_poster.jpg
+RangiTaranga,2015,Movie,Indian,Dark-Gritty,google_user:86% | imdb:8.1 | rt:77%,https://upload.wikimedia.org/wikipedia/en/4/47/2015_Kannada_film_Rangitaranga_poster.jpg
+Talaash: The Answer Lies Within,2012,Movie,Indian,Dark-Gritty,google_user:78% | imdb:7.3 | rt:86%,https://m.media-amazon.com/images/M/MV5BNTg5NzI3NzQzNl5BMl5BanBnXkFtZTcwMjM3MDU2OA@@._V1_FMjpg_UX1000_.jpg
+Raat Akeli Hai,2020,Movie,Indian,Dark-Gritty,google_user:65% | imdb:7.2 | rt:100%,https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg
+Cyberpunk: Edgerunners,2022,Movie,Anime,Dark-Gritty,google_user:96% | imdb:8.3 | rt:100%,https://m.media-amazon.com/images/M/MV5BM2JkMzM2ZmYtNWU4MS00MjZhLWFhZWUtYWFjYTJkN2RhZDliXkEyXkFqcGc@._V1_.jpg
+Ghost in the Shell,1995,Movie,Anime,Dark-Gritty,google_user:89% | imdb:7.9 | rt:95%,https://m.media-amazon.com/images/M/MV5BMDdhZmE1YzMtYTliYS00NGZmLTk5NDMtZTI1YWFlOTc3NTIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Ninja Scroll,1993,Movie,Anime,Dark-Gritty,google_user:89% | imdb:7.8 | rt:90%,https://m.media-amazon.com/images/M/MV5BODUyMDI3NTU3MF5BMl5BanBnXkFtZTcwMDE4NTQyMQ@@._V1_.jpg
+Vampire Hunter D: Bloodlust,2000,Movie,Anime,Dark-Gritty,google_user:96% | imdb:7.7 | rt:70%,https://upload.wikimedia.org/wikipedia/en/4/4b/Vampire-hunter-d-poster.jpg
+BLAME!,2017,Movie,Anime,Dark-Gritty,google_user:63% | imdb:6.6 | rt:60%,https://m.media-amazon.com/images/M/MV5BMDI0YTAwMTAtZmVkZi00MTA3LWI1N2QtNGU2OTliYmJjZmVjXkEyXkFqcGc@._V1_.jpg
+অজ্ঞাতনামা,2016,Movie,Bangladeshi,Lonely,google_user:96% | imdb:8.9,https://upload.wikimedia.org/wikipedia/bn/8/86/%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.png
+টেলিভিশন,2012,Movie,Bangladeshi,Lonely,google_user:94% | imdb:8.2 | rt:67%,"https://m.media-amazon.com/images/M/MV5BZGE3ZmM5OTctZWM3YS00ODA4LTg0NDctODlmMTM0MmZiN2JmXkEyXkFqcGc@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+লালসালু,2001,Movie,Bangladeshi,Lonely,google_user:94% | imdb:7.7,https://m.media-amazon.com/images/M/MV5BNWRjZDg1NjUtYmJiOC00ODJlLWE2OGMtMjFlMTg0MTYzNDJmXkEyXkFqcGc@._V1_.jpg
+অনিল বাগচীর একদিন,2015,Movie,Bangladeshi,Lonely,google_user:95% | imdb:7.1,https://upload.wikimedia.org/wikipedia/bn/6/6f/%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B2_%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%9A%E0%A7%80%E0%A6%B0_%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8_%28%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%29.jpg
+পোড়ামন,2013,Movie,Bangladeshi,Lonely,google_user:81% | imdb:6.0 | rt:83%,https://m.media-amazon.com/images/M/MV5BZTFjMGZhNTAtYTZhNC00YzFkLTgzNzUtOWNjMjYxNzVkMTZhXkEyXkFqcGc@._V1_.jpg
+Up,2009,Movie,English,Lonely,google_user:85% | imdb:8.3 | rt:98%,https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Lost in Translation,2003,Movie,English,Lonely,google_user:84% | imdb:7.7 | rt:95%,https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_.jpg
+The Station Agent,2003,Movie,English,Lonely,google_user:86% | imdb:7.6 | rt:94%,https://m.media-amazon.com/images/M/MV5BMTUzNDgyMzg3Ml5BMl5BanBnXkFtZTcwMzIxNTAwMQ@@._V1_.jpg
+The Florida Project,2017,Movie,English,Lonely,google_user:72% | imdb:7.6 | rt:96%,https://m.media-amazon.com/images/M/MV5BM2FmZThhOGMtZWFmZC00YTNmLWE4YzktMzI0Y2ZjOTlkNGFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Moonlight,2016,Movie,English,Lonely,google_user:80% | imdb:7.4 | rt:98%,https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_.jpg
+Tony Takitani,2004,Movie,Japanese,Lonely,google_user:86% | imdb:7.2 | rt:88%,https://m.media-amazon.com/images/M/MV5BYjUzODRkZGQtMzE0Yy00YWIyLTk3ODMtM2EwYWYwODM2ZGZkXkEyXkFqcGc@._V1_.jpg
+Perfect Days,2023,Movie,Japanese,Lonely,google_user:89% | imdb:7.9 | rt:96%,https://m.media-amazon.com/images/M/MV5BNGVmODFkM2MtOTEzMy00MjFjLThjZmYtODMxZmI1MzcyNDkyXkEyXkFqcGc@._V1_.jpg
+The Girl Who Leapt Through Time,2006,Movie,Japanese,Lonely,google_user:91% | imdb:7.6 | rt:87%,https://m.media-amazon.com/images/M/MV5BODE1YjEzYzYtNWVmZC00ZjU5LTgzNjgtZWRmNjhiMTVjNGU0XkEyXkFqcGc@._V1_.jpg
+Your Lie in April,2025,Movie,Japanese,Lonely,google_user:85% | imdb:8.3 | rt:98%,https://upload.wikimedia.org/wikipedia/en/d/de/Your_Lie_in_April_Manga_cover.png
+5 Centimeters per Second,2007,Movie,Japanese,Lonely,google_user:88% | imdb:7.4 | rt:87%,https://m.media-amazon.com/images/M/MV5BMTI4MDIyNzQyNl5BMl5BanBnXkFtZTcwNDcyNTk2MQ@@._V1_.jpg
+Secret Sunshine,2007,Movie,Korean,Lonely,google_user:79% | imdb:7.5 | rt:94%,https://m.media-amazon.com/images/M/MV5BMjAzMDE5MDM5OV5BMl5BanBnXkFtZTgwMDE1NzE1MjE@._V1_.jpg
+20th Century Girl,2022,Movie,Korean,Lonely,google_user:88% | imdb:7.4 | rt:86%,https://m.media-amazon.com/images/M/MV5BMWY5OTA2NWQtMDE0NS00MWM3LWE1OTctNzcwNTRmY2Q2MTA2XkEyXkFqcGc@._V1_.jpg
+Architecture 101,2012,Movie,Korean,Lonely,google_user:82% | imdb:7.2 | rt:79%,https://m.media-amazon.com/images/M/MV5BMDk1MmMzMTgtOTQzNS00ZWJlLTkyMGItMGQzN2ZkNDVhMGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Always,2011,Movie,Korean,Lonely,google_user:75% | imdb:6.4 | rt:70%,https://m.media-amazon.com/images/M/MV5BNWFjZWFjNWYtMjY1ZC00YjViLWJlNGUtMTZhMGUyOTQ0YzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Way Home,2002,Movie,Korean,Lonely,google_user:84% | imdb:6.1 | rt:65%,https://m.media-amazon.com/images/M/MV5BOTQyOTI2NDkzM15BMl5BanBnXkFtZTYwOTI0MTA3._V1_.jpg
+The End of Evangelion,1997,Movie,Anime,Lonely,google_user:93% | imdb:8.3 | rt:100%,https://m.media-amazon.com/images/M/MV5BMjZlNDQyNzctOGVjMy00ZDFiLWE0ZTQtNzkwZWNhYmQ3MzJlXkEyXkFqcGc@._V1_.jpg
+A Silent Voice,2016,Movie,Anime,Lonely,google_user:96% | imdb:8.2 | rt:95%,https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Wolf Children,2012,Movie,Anime,Lonely,google_user:94% | imdb:8.1 | rt:95%,https://m.media-amazon.com/images/M/MV5BMTRjN2UzZWEtNDQxOS00NmM1LWI2NDctYjQyMDYyZDc0MjkzXkEyXkFqcGc@._V1_.jpg
+The Garden of Words,2013,Movie,Anime,Lonely,google_user:89% | imdb:7.4 | rt:84%,https://m.media-amazon.com/images/M/MV5BYjdiMDdlMDItOGM4Ny00YmE4LTk0MTEtMGRhM2Y4OWZkZDZkXkEyXkFqcGc@._V1_.jpg
+Colorful,2010,Movie,Anime,Lonely,google_user:80% | imdb:7.3 | rt:79%,https://upload.wikimedia.org/wikipedia/en/5/51/Colorful_%282010_poster%29.jpg
+আগুনের পরশমণি,1994,Movie,Bangladeshi,Sad,google_user:95% | imdb:9.1 | rt:96%,https://m.media-amazon.com/images/M/MV5BNGZlYTBjYTktNWQyOS00MDNmLTgxODAtMDUzMGI0NDM3N2JlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+ছুটির ঘণ্টা,1980,Movie,Bangladeshi,Sad,google_user:95% | imdb:8.9,https://m.media-amazon.com/images/M/MV5BZTI5OTA4OWQtZmUwYS00MmRiLTlmOWYtMmUwOWE4NmVkOWRlXkEyXkFqcGc@._V1_.jpg
+হাঙর নদী গ্রেনেড,1997,Movie,Bangladeshi,Sad,google_user:97% | imdb:8.6,https://m.media-amazon.com/images/M/MV5BNTQ0YWYyOTEtNzUzMi00NDE0LTlkZGEtMzJlN2QyMmZkMWI3XkEyXkFqcGc@._V1_.jpg
+আমার বন্ধু রাশেদ,2011,Movie,Bangladeshi,Sad,google_user:98% | imdb:8.3,https://m.media-amazon.com/images/M/MV5BOGIxOWMxOWEtMGMwYy00ODgwLWEzZWEtYTU2OThlNDA5OWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+রেহানা মরিয়ম নূর,2021,Movie,Bangladeshi,Sad,google_user:85% | imdb:7.1 | rt:100%,https://m.media-amazon.com/images/M/MV5BZDA2OTg2YzAtNTM5ZC00YzhmLThlMWMtZjZkYzYyM2RhMTQwXkEyXkFqcGc@._V1_.jpg
+Titanic,1997,Movie,English,Sad,google_user:93% | imdb:8.0 | rt:88%,https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Bring Her Back,2025,Movie,English,Sad,google_user:78% | imdb:7.1 | rt:89%,https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Kodachrome,2017,Movie,English,Sad,google_user:83% | imdb:6.8 | rt:74%,https://m.media-amazon.com/images/M/MV5BMjIxMTk3MzY2MV5BMl5BanBnXkFtZTgwNjQ5NzQxNTM@._V1_.jpg
+Good Grief,2023,Movie,English,Sad,google_user:71% | imdb:6.4 | rt:76%,https://m.media-amazon.com/images/M/MV5BMzVjNWM1YTQtZDQwNi00NzkzLWIyMzEtOGYwYWQwNGVjMTI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Last Letter From Your Lover,2021,Movie,English,Sad,google_user:73% | imdb:6.7 | rt:55%,https://m.media-amazon.com/images/M/MV5BMDE4Y2RiYzQtOTE1My00Yjc1LTllYjYtY2E1ZmNlZTBiNGM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Drawing Closer,2024,Movie,Japanese,Sad,google_user:93% | imdb:7.7 | rt:96%,https://m.media-amazon.com/images/M/MV5BZDdhODE4NTAtNDc0NS00ZTk1LTk3Y2YtNTE4ODZjMDQ1NjZiXkEyXkFqcGc@._V1_.jpg
+Nobody Knows,2004,Movie,Japanese,Sad,google_user:88% | imdb:8.0 | rt:92%,https://m.media-amazon.com/images/M/MV5BYjRlZGEyY2YtYzdmMi00NjkyLTk4OWQtOWZhMDYxYWZmMWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+My Small Land,2022,Movie,Japanese,Sad,google_user:90% | imdb:7.1 | rt:100%,https://m.media-amazon.com/images/M/MV5BM2U0OWMzNjYtMmVkNC00OWM2LThmOGYtNWRjMTU2OTE1ODFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Love Life,2022,Movie,Japanese,Sad,google_user:62% | imdb:6.9 | rt:87%,https://m.media-amazon.com/images/M/MV5BMWI4ZDE1MTgtMzI2Ni00ZGNkLTk0YjEtMmFmNDY1NTJkNWNlXkEyXkFqcGc@._V1_.jpg
+Hope,2013,Movie,Korean,Sad,google_user:94% | imdb:8.2 | rt:96%,https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Wish_poster.jpg/250px-Wish_poster.jpg
+A Taxi Driver,2017,Movie,Korean,Sad,google_user:87% | imdb:7.9 | rt:97%,https://m.media-amazon.com/images/M/MV5BNTczN2QxM2MtMjBkYi00ZDk4LWI3MGYtMzcyYTAxM2JmMzJiXkEyXkFqcGc@._V1_.jpg
+A Moment to Remember,2004,Movie,Korean,Sad,google_user:93% | imdb:8.1 | rt:90%,https://m.media-amazon.com/images/M/MV5BODYzODg5Mjg3Ml5BMl5BanBnXkFtZTgwNDM1MDQ2MzE@._V1_FMjpg_UX1000_.jpg
+Oasis,2002,Movie,Korean,Sad,google_user:82% | imdb:7.8 | rt:90%,https://m.media-amazon.com/images/M/MV5BOTMyYTVmMDUtZjU2NC00NzNlLTlmYTgtOWNhZDBhY2MzOTIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Peppermint Candy,1999,Movie,Korean,Sad,google_user:85% | imdb:7.6 | rt:86%,https://m.media-amazon.com/images/M/MV5BYmY4YjIzY2QtZjJjMS00ZDQ4LTgyNzUtZmJlZTg5YTExMDE1XkEyXkFqcGc@._V1_.jpg
+777 Charlie,2022,Movie,Indian,Sad,google_user:93% | imdb:8.7 | rt:100%,https://m.media-amazon.com/images/M/MV5BOWY4MzlmNjItZGYzMS00ZDVhLWI2ZDMtNWEwZTBiMmU0YzQ4XkEyXkFqcGc@._V1_.jpg
+Sita Ramam,2022,Movie,Indian,Sad,google_user:94% | imdb:8.5 | rt:86%,https://m.media-amazon.com/images/M/MV5BYWE0NDNiNzEtNThmMi00NjZlLTk3NDAtYzIzOWNmNWQyYTI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Dil Bechara,2020,Movie,Indian,Sad,google_user:97% | imdb:8.3 | rt:88%,"https://m.media-amazon.com/images/M/MV5BN2U2ZWY0MjktM2RmNy00ZTc3LTg0MGMtZGJiNjAxYTkxOTZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+Maharaja,2024,Movie,Indian,Sad,google_user:78% | imdb:8.3 | rt:83%,https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Maharaja_2024_film_poster.jpg/250px-Maharaja_2024_film_poster.jpg
+Kal Ho Naa Ho,2003,Movie,Indian,Sad,google_user:80% | imdb:7.9 | rt:70%,https://m.media-amazon.com/images/M/MV5BZTczMDQ0N2EtMTY4NS00ODJhLTk4MzQtOGJmZGRmY2M4MWQwXkEyXkFqcGc@._V1_.jpg
+Grave of the Fireflies,1988,Movie,Anime,Sad,google_user:96% | imdb:8.5 | rt:100%,https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+I Want to Eat Your Pancreas,2018,Movie,Anime,Sad,google_user:97% | imdb:8.1 | rt:93%,https://m.media-amazon.com/images/M/MV5BMTQ1ODIzOGQtOGFkZC00MWViLTgyYmUtNWJkNmIxZjYxMTdmXkEyXkFqcGc@._V1_.jpg
+Violet Evergarden: The Movie,2020,Movie,Anime,Sad,google_user:85% | imdb:8.3 | rt:100%,https://m.media-amazon.com/images/M/MV5BOThmNzJiOTktNjNhNi00M2RjLTkzZTEtMjFlZjhkYzNjNjNmXkEyXkFqcGc@._V1_.jpg
+Weathering With You,2019,Movie,Anime,Sad,google_user:92% | imdb:7.5 | rt:91%,https://m.media-amazon.com/images/M/MV5BMmJiYWI4ZjktMzgyZS00MjBiLThmOTYtZWJmOTUzOTFkMTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Only Yesterday,1991,Movie,Anime,Sad,google_user:81% | imdb:7.6 | rt:100%,https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_.jpg
+দীপু নাম্বার ২,1996,Movie,Bangladeshi,Empowered,google_user:97% | imdb:8.9,https://m.media-amazon.com/images/M/MV5BZmY0MDE4YWMtNmZhMi00ZDNlLWFlNjctNmI2MWE2NWUwMWVkXkEyXkFqcGc@._V1_.jpg
+ওরা ১১ জন,1972,Movie,Bangladeshi,Empowered,google_user:96% | imdb:8.8,https://upload.wikimedia.org/wikipedia/bn/1/10/%E0%A6%93%E0%A6%B0%E0%A6%BE_%E0%A7%A7%E0%A7%A7_%E0%A6%9C%E0%A6%A8_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.jpg
+গেরিলা,2011,Movie,Bangladeshi,Empowered,google_user:93% | imdb:8.1,https://m.media-amazon.com/images/M/MV5BOTI0ZjFjNTAtYmZlZC00N2ZhLTg0YzctNWNmZTk2OTk1ZTc0XkEyXkFqcGc@._V1_.jpg
+Made in Bangladesh,2019,Movie,Bangladeshi,Empowered,google_user:90% | imdb:6.9 | rt:100%,https://m.media-amazon.com/images/M/MV5BMDVkOWFiYzctMWI1My00ZWFkLThkNmQtMDRiMTZlMGNlYjU5XkEyXkFqcGc@._V1_.jpg
+রাজকাহিনী,2015,Movie,Bangladeshi,Empowered,google_user:93% | imdb:7.2,"https://m.media-amazon.com/images/M/MV5BNGMxZGUzYzgtZmFjOS00NDFiLWFjOWItZDNlY2Y1YjE2ZmJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+The Shawshank Redemption,1994,Movie,English,Empowered,google_user:95% | imdb:9.3 | rt:89%,https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg
+Dead Poets Society,1989,Movie,English,Empowered,google_user:93% | imdb:8.1 | rt:85%,https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg
+Forrest Gump,1994,Movie,English,Empowered,google_user:94% | imdb:8.8 | rt:75%,https://m.media-amazon.com/images/M/MV5BYTIxMzBjYzUtMDYwOC00OTFmLTllNmMtYTYxNjFhOTViM2YyXkEyXkFqcGc@._V1_.jpg
+The Pursuit of Happyness,2006,Movie,English,Empowered,google_user:93% | imdb:8.0 | rt:67%,https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg
+A Beautiful Mind,2001,Movie,English,Empowered,google_user:83% | imdb:8.2 | rt:74%,https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_.jpg
+Ikiru,1952,Movie,Japanese,Empowered,google_user:90% | imdb:8.3 | rt:98%,https://upload.wikimedia.org/wikipedia/commons/3/3a/Ikiru_poster.jpg
+After the Storm,2016,Movie,Japanese,Empowered,google_user:74% | imdb:7.4 | rt:96%,https://upload.wikimedia.org/wikipedia/en/c/c1/After_the_Storm_2016.jpg
+Departures,2008,Movie,Japanese,Empowered,google_user:90% | imdb:8.0 | rt:80%,https://upload.wikimedia.org/wikipedia/en/e/e1/Okuribito_%282008%29.jpg
+Sweet Bean,2015,Movie,Japanese,Empowered,google_user:84% | imdb:7.4 | rt:84%,https://m.media-amazon.com/images/M/MV5BMzYxMjM2NDU0MF5BMl5BanBnXkFtZTgwMTk3MTEyODE@._V1_FMjpg_UX1000_.jpg
+Castaway on the Moon,2009,Movie,Korean,Empowered,google_user:94% | imdb:7.9 | rt:93%,https://m.media-amazon.com/images/M/MV5BMTk3MTQ3NzU0MF5BMl5BanBnXkFtZTgwNTM0MTE0MjE@._V1_.jpg
+Miracle in Cell No. 7,2019,Movie,Korean,Empowered,google_user:94% | imdb:8.1 | rt:89%,https://upload.wikimedia.org/wikipedia/en/4/4c/Miracle_in_Cell_No._7_poster.jpg
+1987: When the Day Comes,2017,Movie,Korean,Empowered,google_user:82% | imdb:7.7 | rt:82%,https://m.media-amazon.com/images/M/MV5BYmY2ZmU5OGItY2JiZC00Y2NmLWFiMTgtNGRiZjViZTcyYjMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Attorney,2013,Movie,Korean,Empowered,google_user:85% | imdb:7.7 | rt:77%,https://m.media-amazon.com/images/M/MV5BMjI2ODg5NDcxN15BMl5BanBnXkFtZTgwMDEzNzIwMTE@._V1_.jpg
+Dangal,2016,Movie,Indian,Empowered,google_user:85% | imdb:8.3 | rt:89%,https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg
+Tonic,2021,Movie,Indian,Empowered,google_user:96% | imdb:7.6,"https://m.media-amazon.com/images/M/MV5BYzk4NGE4ZmQtZDUxOS00ZjI0LTkyZGYtM2NiNjQ3ODc0NzE4XkEyXkFqcGc@._V1_QL75_UY133_CR3,0,90,133_.jpg"
+Iqbal,2005,Movie,Indian,Empowered,google_user:79% | imdb:8.1 | rt:94%,https://m.media-amazon.com/images/M/MV5BMjA3NzUzMjU5MF5BMl5BanBnXkFtZTgwNzMxMDAxMzE@._V1_.jpg
+Chalo Paltai,2011,Movie,Indian,Empowered,google_user:95% | imdb:7.4,https://m.media-amazon.com/images/M/MV5BYzY2MWZmMmEtZTkyZi00NDY0LWIyMmYtMzU3MzI0YzBiMGYzXkEyXkFqcGc@._V1_.jpg
+Bhaag Milkha Bhaag,2013,Movie,Indian,Empowered,google_user:83% | imdb:8.2 | rt:75%,https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_.jpg
+Princess Mononoke,1997,Movie,Anime,Empowered,google_user:94% | imdb:8.3 | rt:93%,https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_.jpg
+In This Corner of the World,2016,Movie,Anime,Empowered,google_user:87% | imdb:7.8 | rt:97%,https://m.media-amazon.com/images/M/MV5BOTQ5YTljZTItYmY0Yy00NmEyLTg3Y2QtNTM0MGQwNjMyZjdlXkEyXkFqcGc@._V1_.jpg
+Belle,2021,Movie,Anime,Empowered,google_user:78% | imdb:7.0 | rt:95%,https://m.media-amazon.com/images/M/MV5BZGNlZDg3NjEtMGQwNy00NDc5LWIxNmUtMTgxM2M4MWZlMWUxXkEyXkFqcGc@._V1_.jpg
+Lonely Castle in the Mirror,2022,Movie,Anime,Empowered,google_user:64% | imdb:7.0 | rt:50%,https://m.media-amazon.com/images/M/MV5BZGU4NmYxMGYtNjNhZC00ZGJmLWIwZWItZjMxMGE0OTg5YTM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Halloween,2018,Movie,English,Thrilling,google_user:89% | imdb:7.7 | rt:97%,https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Conjuring,2013,Movie,English,Thrilling,google_user:90% | imdb:7.5 | rt:86%,https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg
+The Texas Chainsaw Massacre,1974,Movie,English,Thrilling,google_user:86% | imdb:7.4 | rt:85%,https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Descent,2005,Movie,English,Thrilling,google_user:87% | imdb:7.2 | rt:87%,https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_.jpg
+IT,2017,Movie,English,Thrilling,google_user:84% | imdb:7.3 | rt:85%,https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg
+The Wailing,2016,Movie,Korean,Thrilling,google_user:77% | imdb:7.4 | rt:99%,https://m.media-amazon.com/images/M/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@._V1_FMjpg_UX1000_.jpg
+The Call,2020,Movie,Korean,Thrilling,google_user:76% | imdb:7.1 | rt:100%,https://m.media-amazon.com/images/M/MV5BYzZlOGEyZTMtYmIxYS00NmIxLWIwNjYtMzY3Yjg2OThjODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Gonjiam: Haunted Asylum,2018,Movie,Korean,Thrilling,google_user:83% | imdb:6.5 | rt:92%,https://m.media-amazon.com/images/M/MV5BOWI1Yjk5ZWEtZjcyNS00NmZkLWFkNzUtMDA5YmNhODA1ZDVhXkEyXkFqcGc@._V1_.jpg
+A Tale of Two Sisters,2003,Movie,Korean,Thrilling,google_user:84% | imdb:7.1 | rt:86%,https://m.media-amazon.com/images/M/MV5BMTEwMTYwMGQtY2ZhNi00Y2QwLWIxYjktMGY1Mzk4YmE4ODY2XkEyXkFqcGc@._V1_.jpg
+The Closet,2020,Movie,Korean,Thrilling,google_user:83% | imdb:5.7 | rt:89%,https://m.media-amazon.com/images/M/MV5BZDEwMTE0YzgtODgyMi00OWE4LTg2MGQtNzk2ODVmZDcyZmMzXkEyXkFqcGc@._V1_.jpg
+Noroi: The Curse,2005,Movie,Japanese,Thrilling,google_user:88% | imdb:6.8 | rt:74%,https://upload.wikimedia.org/wikipedia/en/9/9b/Noroi_The_Curse_1a.jpg
+Pulse (Kairo),2001,Movie,Japanese,Thrilling,google_user:80% | imdb:6.6 | rt:76%,https://m.media-amazon.com/images/M/MV5BMTc3MDU4NTQzMl5BMl5BanBnXkFtZTgwMDY2NjgwMzE@._V1_.jpg
+Reincarnation,2005,Movie,Japanese,Thrilling,google_user:74% | imdb:6.1 | rt:62%,https://m.media-amazon.com/images/M/MV5BMzExNDk3NzQ4MV5BMl5BanBnXkFtZTcwNTE0MTA0MQ@@._V1_.jpg
+Dark Water,2005,Movie,Japanese,Thrilling,google_user:74% | imdb:5.6 | rt:47%,https://m.media-amazon.com/images/M/MV5BZTY4NGFiZDEtYTNjZS00ZTViLThlYmQtMzM3NTYwOWY4MWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Kaidan,2007,Movie,Japanese,Thrilling,google_user:81% | imdb:6.1 | rt:38%,https://m.media-amazon.com/images/M/MV5BMjI4MzM4NTU5NF5BMl5BanBnXkFtZTgwNjYzODkwMzE@._V1_.jpg
+Dabbe: The Possession,2013,Movie,Turkish,Thrilling,google_user:68% | imdb:6.8 | rt:70%,https://m.media-amazon.com/images/M/MV5BNDhmNmQ3ZTYtMTVkOC00NzU4LTgyZjktNGUxOTJkODhiYjU3XkEyXkFqcGc@._V1_.jpg
+Musallat,2007,Movie,Turkish,Thrilling,google_user:81% | imdb:5.9,https://m.media-amazon.com/images/M/MV5BMTg5ODg4NDM5M15BMl5BanBnXkFtZTcwMTY5ODcxNw@@._V1_.jpg
+Baskin,2015,Movie,Turkish,Thrilling,google_user:63% | imdb:5.8 | rt:80%,https://m.media-amazon.com/images/M/MV5BNDI2NzAwOTEzOV5BMl5BanBnXkFtZTgwMzMxNzI2ODE@._V1_.jpg
+Dabbe: Curse of the Jinn,2013,Movie,Turkish,Thrilling,google_user:68% | imdb:6.8,https://upload.wikimedia.org/wikipedia/en/8/88/Dabbe-_Curse_of_the_Jinn_poster.jpg
+Semum,2008,Movie,Turkish,Thrilling,google_user:84% | imdb:5.0,https://m.media-amazon.com/images/M/MV5BZWRlMjcwYTMtY2Y4ZS00NTI4LWI0NWMtODQ3Yzc4YzFmNDdkXkEyXkFqcGc@._V1_.jpg
+Manichitrathazhu,1993,Movie,Indian,Thrilling,google_user:95% | imdb:8.7 | rt:94%,https://m.media-amazon.com/images/M/MV5BNjllNGZiYjAtMjVjMy00ZGI4LThiZDAtYzFlOGRkY2E0NDA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Pizza,2012,Movie,Indian,Thrilling,google_user:90% | imdb:7.9 | rt:94%,https://m.media-amazon.com/images/M/MV5BYzUwNTE1MWUtN2M3Mi00MWExLTgxNGItNDE4NDEzNmFkOWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Maya,2015,Movie,Indian,Thrilling,google_user:82% | imdb:7.4,https://m.media-amazon.com/images/M/MV5BYWVkMGIyOWMtMjg5Ni00OGJjLTkyNTEtMjE3OTFmODQzNDg1XkEyXkFqcGc@._V1_.jpg
+Raat,1992,Movie,Indian,Thrilling,google_user:75% | imdb:7.0,https://m.media-amazon.com/images/M/MV5BN2RmMDAwYTMtY2MyYi00OTkzLTlmNzgtMGQ2YTViNmYwNjhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Pari,2018,Movie,Indian,Thrilling,google_user:78% | imdb:6.6 | rt:53%,https://m.media-amazon.com/images/M/MV5BOWUxZjhmNTItYzRkNi00MTI2LWI1MTAtNzQ3YWYxNThjY2RmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Made in Abyss: Dawn of the Deep Soul,2020,Movie,Anime,Thrilling,google_user:84% | imdb:8.0 | rt:93%,https://m.media-amazon.com/images/M/MV5BOWU1NTFlN2ItODEyMy00MWQ2LTkwZWMtZWVhN2E3ZDk0OWZkXkEyXkFqcGc@._V1_.jpg
+Tokyo Ghoul,2017,Movie,Anime,Thrilling,google_user:82% | imdb:5.7 | rt:82%,https://m.media-amazon.com/images/M/MV5BYjEwNzQ1YmQtN2E4OC00MWFiLTg4N2UtMTM1ODg0OTg2YTRhXkEyXkFqcGc@._V1_.jpg
+Gyo: Tokyo Fish Attack,2012,Movie,Anime,Thrilling,google_user:51% | imdb:5.5 | rt:32%,https://m.media-amazon.com/images/M/MV5BZDczNzFkYTEtMGQwMC00Y2MyLTk2ZGItYmI5ZWFiNzAyZmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+তুফান,2024,Movie,Bangladeshi,High-Energy,google_user:89% | imdb:7.3 | rt:85%,https://m.media-amazon.com/images/M/MV5BZWY5NmFhNzAtZDM0YS00Zjc4LTljMTQtNWI4YWY3MTBjMjkzXkEyXkFqcGc@._V1_.jpg
+Dhaka Attack,2017,Movie,Bangladeshi,High-Energy,google_user:93% | imdb:7.5,https://m.media-amazon.com/images/M/MV5BNWEwNTQ2OTMtNTlhNS00ZDZhLTg2YjktYWZkNDAzOGEwYzdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Operation Sundarbans,2022,Movie,Bangladeshi,High-Energy,google_user:95% | imdb:6.7,https://m.media-amazon.com/images/M/MV5BOGExMjI3ZmItNTg0ZS00NzVkLWI5NmItNTkzZDM1YzA1ZjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+নোলক,2019,Movie,Bangladeshi,High-Energy,google_user:82% | imdb:7.0,https://m.media-amazon.com/images/M/MV5BNTdlNzgyNDEtMmFlNS00NDVlLTk4YmItMTJhZTk2ZjIyOTRkXkEyXkFqcGc@._V1_.jpg
+Chittagong,2012,Movie,Bangladeshi,High-Energy,google_user:72% | imdb:7.3 | rt:62%,https://m.media-amazon.com/images/M/MV5BODgyMzc4MTItZDYyNy00YjI2LTg5NmYtZmMwNmIwMzYzMmUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Dark Knight,2008,Movie,English,High-Energy,google_user:92% | imdb:9.1 | rt:94%,https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg
+Terminator 2: Judgment Day,1991,Movie,English,High-Energy,google_user:95% | imdb:8.6 | rt:91%,https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg
+Avengers: Endgame,2019,Movie,English,High-Energy,google_user:92% | imdb:8.4 | rt:94%,https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg
+Mad Max: Fury Road,2015,Movie,English,High-Energy,google_user:89% | imdb:8.1 | rt:97%,https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Mad_Max_Fury_Road.jpg/250px-Mad_Max_Fury_Road.jpg
+Die Hard,1988,Movie,English,High-Energy,google_user:89% | imdb:8.2 | rt:94%,https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg
+Seven Samurai,1954,Movie,Japanese,High-Energy,google_user:93% | imdb:8.6 | rt:100%,https://m.media-amazon.com/images/M/MV5BZDg4MTYyYjktZGJiYy00ZGIwLWEzNTMtNTZkMjRhYTViMWE4XkEyXkFqcGc@._V1_.jpg
+Metropolis,1927,Movie,Japanese,High-Energy,google_user:84% | imdb:8.2 | rt:97%,https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg
+Unforgiven,1992,Movie,Japanese,High-Energy,google_user:81% | imdb:8.2 | rt:96%,https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+13 Assassins,2010,Movie,Japanese,High-Energy,google_user:82% | imdb:7.5 | rt:95%,https://m.media-amazon.com/images/M/MV5BODg3MTYwODY3MF5BMl5BanBnXkFtZTcwMDk2MzYwNQ@@._V1_FMjpg_UX1000_.jpg
+Baby Assassins,2021,Movie,Japanese,High-Energy,google_user:76% | imdb:6.4 | rt:100%,https://m.media-amazon.com/images/M/MV5BOTVmMzBhMWQtZjQzNC00MTFjLTg3OWEtMDQ0NzUwZjNkYzMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+12.12: The Day,2023,Movie,Korean,High-Energy,google_user:88% | imdb:8.2 | rt:98%,https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_.jpg
+The Man from Nowhere,2010,Movie,Korean,High-Energy,google_user:91% | imdb:7.7 | rt:100%,https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_.jpg
+Okja,2017,Movie,Korean,High-Energy,google_user:84% | imdb:7.3 | rt:87%,https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_FMjpg_UX1000_.jpg
+Once Upon a Time in High School,2004,Movie,Korean,High-Energy,google_user:89% | imdb:7.4 | rt:79%,https://m.media-amazon.com/images/M/MV5BMjAxMzY4MjU2Ml5BMl5BanBnXkFtZTgwNjY5OTQ2MzE@._V1_.jpg
+RRR,2022,Movie,Indian,High-Energy,google_user:89% | imdb:7.8 | rt:96%,https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg
+Baahubali 2: The Conclusion,2017,Movie,Indian,High-Energy,google_user:77% | imdb:8.2 | rt:88%,https://upload.wikimedia.org/wikipedia/en/9/93/Baahubali_2_The_Conclusion_poster.jpg
+Baby,2015,Movie,Indian,High-Energy,google_user:83% | imdb:7.9 | rt:75%,https://m.media-amazon.com/images/M/MV5BYjVlNzAzY2MtMzI2Ni00YWEwLTliZDYtMjZiNTEyMGUxNDQ2XkEyXkFqcGc@._V1_.jpg
+Jawan,2023,Movie,Indian,High-Energy,google_user:78% | imdb:6.9 | rt:89%,https://m.media-amazon.com/images/M/MV5BMGExNGI1NDktOWI2Mi00NDM3LWIxMmQtNTQxYTgzMzI0MTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Uri: The Surgical Strike,2019,Movie,Indian,High-Energy,google_user:89% | imdb:8.2 | rt:57%,https://m.media-amazon.com/images/M/MV5BMTMyODQxODktZTgzZC00YTQ0LWJjZWYtZTgzOTI5MmI3NGViXkEyXkFqcGc@._V1_.jpg
+High School Fleet the Movie,2020,Movie,Anime,High-Energy,google_user:95% | imdb:8.0,https://m.media-amazon.com/images/M/MV5BMDNjNTRlODMtNDZhMC00YTJiLWFhZGUtN2ExMTkwNjAzOTBkXkEyXkFqcGc@._V1_.jpg
+No Game No Life: Zero,2017,Movie,Anime,High-Energy,google_user:84% | imdb:7.3 | rt:79%,https://m.media-amazon.com/images/M/MV5BMTRhOTU3NmEtMzg4My00YmM0LWE5NWEtYjM5NDJlNDc1MGE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Golgo 13: The Professional,1983,Movie,Anime,High-Energy,google_user:81% | imdb:6.8,https://m.media-amazon.com/images/M/MV5BYmQyZDMzMGQtY2UzMC00NDhlLTk4YTItMzIxOWE5NjI1ZTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Inception,2010,Movie,English,Mind-Expanding,google_user:87% | imdb:8.8 | rt:87%,https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg
+Back to the Future,1985,Movie,English,Mind-Expanding,google_user:93% | imdb:8.5 | rt:92%,https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Back_to_the_Future.jpg/250px-Back_to_the_Future.jpg
+The Matrix,1999,Movie,English,Mind-Expanding,google_user:89% | imdb:8.7 | rt:83%,https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg
+2001: A Space Odyssey,1968,Movie,English,Mind-Expanding,google_user:84% | imdb:8.3 | rt:90%,https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Interstellar,2014,Movie,English,Mind-Expanding,google_user:92% | imdb:8.7 | rt:73%,https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg
+Godzilla Minus One,2023,Movie,Japanese,Mind-Expanding,google_user:90% | imdb:7.7 | rt:99%,https://m.media-amazon.com/images/M/MV5BY2MzOWZlYmYtM2NiOC00YWE5LWExYjUtODRmY2U2OGJmMzY0XkEyXkFqcGc@._V1_.jpg
+The Face of Another,1966,Movie,Japanese,Mind-Expanding,google_user:92% | imdb:7.8 | rt:86%,https://m.media-amazon.com/images/M/MV5BYmJkNDgyZjAtMzFkMS00ZWI0LWFkOWQtYjliMTRkZThkZWMzXkEyXkFqcGc@._V1_.jpg
+Akira,1988,Movie,Japanese,Mind-Expanding,google_user:92% | imdb:8.0 | rt:91%,https://m.media-amazon.com/images/M/MV5BYWUxMGRhZDQtMTBmMi00N2IxLWE5NmYtMDMyMWExODAwNWYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+The Mysterians,1957,Movie,Japanese,Mind-Expanding,google_user:89% | imdb:6.1 | rt:52%,https://m.media-amazon.com/images/M/MV5BY2Q4YzljNmItZTcyYy00OWNiLWE4YTItMDIxY2RiZjAwNzY0XkEyXkFqcGc@._V1_.jpg
+Save the Green Planet!,2003,Movie,Korean,Mind-Expanding,google_user:84% | imdb:7.1 | rt:88%,https://m.media-amazon.com/images/M/MV5BMTc3Nzk4MjM2OF5BMl5BanBnXkFtZTgwNDg4NzgwMzE@._V1_.jpg
+Alienoid,2022,Movie,Korean,Mind-Expanding,google_user:78% | imdb:6.3 | rt:87%,https://m.media-amazon.com/images/M/MV5BZjYwZjJlNGQtYTcwNS00Nzk0LWI3YzEtNGEyYzQ5YmZkNGU0XkEyXkFqcGc@._V1_.jpg
+SORI: Voice from the Heart,2016,Movie,Korean,Mind-Expanding,google_user:91% | imdb:6.6 | rt:60%,https://m.media-amazon.com/images/M/MV5BMDUwYjZlZTQtZTdlOS00YTIyLWIwNzMtY2FhN2ZmYzJhOTA1XkEyXkFqcGc@._V1_.jpg
+Young Gun in the Time,2012,Movie,Korean,Mind-Expanding,google_user:75% | imdb:7.4,https://m.media-amazon.com/images/M/MV5BZDBiYTY4YjQtMDMxMi00MzBjLTk2ZGEtNjk0NzY5MDgxMDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+2009: Lost Memories,2002,Movie,Korean,Mind-Expanding,google_user:83% | imdb:6.1 | rt:43%,https://m.media-amazon.com/images/M/MV5BNjY0M2RlYWUtYjkyZi00MzU4LTk3NWEtYjM0ZDIzYjM4Mzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Maanaadu,2021,Movie,Indian,Mind-Expanding,google_user:89% | imdb:8.1 | rt:96%,https://m.media-amazon.com/images/M/MV5BZDJiZWVjNDUtNjJmYS00ZGQ1LWExMjUtMjg4ZTI0MDZiNTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+24,2016,Movie,Indian,Mind-Expanding,google_user:84% | imdb:7.9 | rt:88%,https://m.media-amazon.com/images/M/MV5BYzg2YTY0MjctMDkwYS00YWZhLWE5ZGYtNDBhZWI3NWY0NDlmXkEyXkFqcGc@._V1_.jpg
+Enthiran,2010,Movie,Indian,Mind-Expanding,google_user:77% | imdb:7.2 | rt:83%,https://upload.wikimedia.org/wikipedia/en/0/0f/Enthiran_poster.jpg
+Kalki 2898 AD,2024,Movie,Indian,Mind-Expanding,google_user:80% | imdb:7.0 | rt:77%,https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_.jpg
+Koi... Mil Gaya,2003,Movie,Indian,Mind-Expanding,google_user:83% | imdb:7.2 | rt:80%,https://m.media-amazon.com/images/M/MV5BMjkwM2IyZmUtNjdmZi00MWY5LWFiZWYtM2E0NmU3ZjQ4OWUyXkEyXkFqcGc@._V1_.jpg
+Millennium Actress,2001,Movie,Anime,Mind-Expanding,google_user:93% | imdb:7.8 | rt:93%,https://m.media-amazon.com/images/M/MV5BZjcwZDFlMTgtN2Q1Ny00MTgxLTk5OGItNTllMDg3MjE0NjZlXkEyXkFqcGc@._V1_.jpg
+Maquia: When the Promised Flower Blooms,2018,Movie,Anime,Mind-Expanding,google_user:78% | imdb:7.4 | rt:100%,https://m.media-amazon.com/images/M/MV5BNjY5YWZhMzItMDA1OS00NjllLTgxOWUtZWU3YTQwOTE3ZThhXkEyXkFqcGc@._V1_.jpg
+Angel’s Egg,1985,Movie,Anime,Mind-Expanding,google_user:90% | imdb:7.5 | rt:100%,https://m.media-amazon.com/images/M/MV5BYmU1ZDEyNzEtMWYyZi00OTc2LTgxMmEtZWU3YzMxNTUwM2YzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Mind Game,2004,Movie,Anime,Mind-Expanding,google_user:72% | imdb:7.7 | rt:100%,https://m.media-amazon.com/images/M/MV5BMTc2NjI5MmYtMjBkZC00ZWRhLTg4YmItMTI2Mjk0N2JjNTIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Hello World,2019,Movie,Anime,Mind-Expanding,google_user:89% | imdb:6.7 | rt:83%,https://m.media-amazon.com/images/M/MV5BYWJkNGIzMmQtZDY4Ni00OTdmLWExNjUtMTM1OWU4MGRhNDM5XkEyXkFqcGc@._V1_.jpg
+Simon Birch,1998,Movie,English,Fun,tmdb:6.7,https://image.tmdb.org/t/p/w500/vRJcV9l3tLFoUWZel9RikS3nfJ6.jpg
+Something Borrowed,2011,Movie,English,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/ePBBKnOkxsK2Ijdnt5EN7sHSSWO.jpg
+Sui Dhaaga - Made in India,2018,Movie,Indian,Fun,tmdb:7.1,https://image.tmdb.org/t/p/w500/dit1yb4Z5WBtCFqn7Bl3oN8l7A1.jpg
+The Red Balloon,1956,Movie,English,Fun,tmdb:7.7,https://image.tmdb.org/t/p/w500/3XrEggEOEnKGi8hTOau44vcvbmV.jpg
+Return of the Hero,2018,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/5UsjIbxJWRiSAfdeC4AhlJEFtRm.jpg
+Mithya,2008,Movie,Indian,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/vISVPrVsNwXyYiUIb2gqV1asoXA.jpg
+License to Wed,2007,Movie,English,Fun,tmdb:5.7,https://image.tmdb.org/t/p/w500/mXNMHCceDH8g8Rhzz3nmYvCvjYO.jpg
+Coolie,1983,Movie,Indian,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/50cWN4GsN7OBp9kOYRHz3eBFKgG.jpg
+The Bear,1988,Movie,English,Fun,tmdb:7.0,https://image.tmdb.org/t/p/w500/sqbfaoSFQ2l5c1kkxal4NeOrvX9.jpg
+PAW Patrol: The Movie,2021,Movie,English,Fun,tmdb:7.4,https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg
+My Little Devil,1999,Movie,Indian,Fun,tmdb:5.0,https://image.tmdb.org/t/p/w500/4s9S5LOdVim3TXqUP7sEJURdnft.jpg
+22 Jump Street,2014,Movie,English,Fun,tmdb:6.8,https://image.tmdb.org/t/p/w500/850chzYHYbT3IISl6Q7dbBuFP2B.jpg
+Our Struggle,1951,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/xJXltf7wSjqlMQhS0gknTnnLHHE.jpg
+The Hitman's Bodyguard,2017,Movie,English,Fun,tmdb:6.9,https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+The Half of It,2020,Movie,English,Fun,tmdb:7.1,https://image.tmdb.org/t/p/w500/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg
+Dragon Ball Z: Dead Zone,1989,Movie,Anime,Fun,tmdb:6.7,https://image.tmdb.org/t/p/w500/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg
+Road to Ninja: Naruto the Movie,2012,Movie,Anime,Fun,tmdb:7.6,https://image.tmdb.org/t/p/w500/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg
+Can't Buy Me Love,1987,Movie,English,Fun,tmdb:7.0,https://image.tmdb.org/t/p/w500/uHCkUHe63HUkWPmUmJ0kPmOQchJ.jpg
+Batman Ninja,2018,Movie,Anime,Fun,tmdb:5.8,https://image.tmdb.org/t/p/w500/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg
+La Belle Époque,2019,Movie,English,Fun,tmdb:7.4,https://image.tmdb.org/t/p/w500/eHojoVxYRyqGABgoiTYyfkYqTra.jpg
+The Salvation,2014,Movie,English,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/xQsv3OI8UT6s9Rn3C0WxO24bnEx.jpg
+The Joneses,2010,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/k2oWuzmnDaszX2Xn04SSB0mF41B.jpg
+Neon Genesis Evangelion: The End of Evangelion,1997,Movie,Anime,Fun,tmdb:8.4,https://image.tmdb.org/t/p/w500/njusQPChH9k5v7fArevjGDFFjr0.jpg
+Tie Me Up! Tie Me Down!,1990,Movie,English,Fun,tmdb:6.9,https://image.tmdb.org/t/p/w500/8gwMbLfOazehKF8xxdfYZR18bH3.jpg
+Us Again,2021,Movie,English,Fun,tmdb:7.9,https://image.tmdb.org/t/p/w500/zKnenwvQB6xA4mxc8zxL2S8qVbR.jpg
+The Little Shop of Horrors,1960,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/8wukZauAXzmtG5uIsJwk4TO1yvo.jpg
+Alien Abduction,2014,Movie,English,Fun,tmdb:5.8,https://image.tmdb.org/t/p/w500/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg
+Do Bachche Dus Haath,1972,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/v5nCEKRsZYANXwQWXD5Hj2mzRMy.jpg
+Roald Dahl's The Witches,2020,Movie,English,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg
+Night of the Demons,1988,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/gPLs4LRu85CBir22j57lXoWAawm.jpg
+The Paris Metro - Nostalgic Flâneur,2020,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/jxG0Hg0FqFN8x3lqoKR7LYuhNNL.jpg
+Sunshine Cleaning,2008,Movie,English,Fun,tmdb:6.6,https://image.tmdb.org/t/p/w500/zpS6aIqBTGLKvpFshmSuegv5JDt.jpg
+Hum Saath Saath Hain,1999,Movie,Indian,Fun,tmdb:6.0,https://image.tmdb.org/t/p/w500/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg
+Toy Story of Terror!,2013,Movie,English,Fun,tmdb:7.2,https://image.tmdb.org/t/p/w500/oPBEnNP4Fg4gv9c0KBhchmtoG4H.jpg
+Mamta,1966,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/kGHRk8iKg1YaERR5F2nMoCHx3UI.jpg
+Neighbours: Part 2,2013,Movie,Indian,Fun,tmdb:10.0,
+Lootmaar,1980,Movie,Indian,Fun,tmdb:5.0,https://image.tmdb.org/t/p/w500/xbpNvCc8LYZJrcTdUnhOAt4uWyV.jpg
+The Polka King,2017,Movie,English,Fun,tmdb:5.5,https://image.tmdb.org/t/p/w500/wJXC652ZGCnpDSn94kcucdplKYC.jpg
+Fly Away Home,1996,Movie,English,Fun,tmdb:6.9,https://image.tmdb.org/t/p/w500/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg
+Louis C.K. 2017,2017,Movie,English,Fun,tmdb:7.3,https://image.tmdb.org/t/p/w500/RlENlbNxrqsWfdEDCSXGWWvWTd.jpg
+Yao,2019,Movie,English,Fun,tmdb:6.5,https://image.tmdb.org/t/p/w500/h57d4pTIN4sWhbKz1mcIkW4PPmp.jpg
+Wilson,2017,Movie,English,Fun,tmdb:6.0,https://image.tmdb.org/t/p/w500/m63h5MxevYrKn3720hVgKZAx86S.jpg
+Maazii,2013,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/zUsIl1OrFlVnghqRqmZPpUhVAUK.jpg
+The Pink Pyjama Girl,2010,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/vBdWc54KRRxfzDcASNBzJZWlG5V.jpg
+Misfit,2021,Movie,English,Fun,tmdb:8.1,https://image.tmdb.org/t/p/w500/yDwDiovi6qLcluB4EI3bJp1zOwa.jpg
+Dial 100,1982,Movie,Indian,Fun,tmdb:0.0,
+Invisible Life,2019,Movie,English,Fun,tmdb:7.9,https://image.tmdb.org/t/p/w500/dHmy5vHcEfeBfy72sWxAdeSBLmn.jpg
+Night at the Museum: Battle of the Smithsonian,2009,Movie,English,Fun,tmdb:6.1,https://image.tmdb.org/t/p/w500/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg
+Jumpin' Jack Flash,1986,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/znVUM7RUBwQ16Q9lTmuMpaWJ7so.jpg
+Amsterdam,2022,Movie,English,Fun,tmdb:6.1,https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg
+The Specials,2019,Movie,English,Fun,tmdb:7.9,https://image.tmdb.org/t/p/w500/zJziqrnSOzKiV0TrNVZ3AS0NMKI.jpg
+The Wannabes,2022,Movie,English,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/7MdTly7XxHhSgnlHuJcqzrj7Uso.jpg
+Big Nothing,2006,Movie,English,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/nBqD9k5UECzHRwuc0Gt9SgkI1YN.jpg
+Mehboob Ki Mehndi,1971,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/tFTsBlBh5TVel0qeOaPXxnH3dme.jpg
+Chocolate,2008,Movie,English,Fun,tmdb:7.3,https://image.tmdb.org/t/p/w500/g8CBVNFdJOGINQW2KuOvl5NAPS5.jpg
+Turner & Hooch,1989,Movie,English,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg
+A Charlie Brown Christmas,1965,Movie,English,Fun,tmdb:7.7,https://image.tmdb.org/t/p/w500/vtaufTzJBMJAeziQA1eP4BLU24C.jpg
+Pride & Prejudice,2005,Movie,English,Fun,tmdb:8.1,https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg
+Christmas with the Kranks,2004,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/q866vL3KhAjbkZH1enT7AoxmRHx.jpg
+Nim's Island,2008,Movie,English,Fun,tmdb:5.9,https://image.tmdb.org/t/p/w500/vhNoXDpc7T5OdmAuu8DMHLB39uo.jpg
+Aafat-e-Ishq,2021,Movie,Indian,Fun,tmdb:4.0,https://image.tmdb.org/t/p/w500/3wN4B6UBUiVyofmOFVwdgeVk38L.jpg
+Aaina,1993,Movie,Indian,Fun,tmdb:8.0,https://image.tmdb.org/t/p/w500/kcgOiH62WYfncswkBvvJKGUlwnt.jpg
+Reno 911!: Miami,2007,Movie,English,Fun,tmdb:5.8,https://image.tmdb.org/t/p/w500/l9v3nqTU4Gj2zuASGDLJX4YD8ma.jpg
+The Prince of Tides,1991,Movie,English,Fun,tmdb:6.6,https://image.tmdb.org/t/p/w500/9XnfC64QRUp5HYPtSVasi7L9NGk.jpg
+Nazar Andaaz,2022,Movie,Indian,Fun,tmdb:5.5,https://image.tmdb.org/t/p/w500/lRu6wDtD6t0qgY1w5eiWrSSoOhx.jpg
+Sword of the Stranger,2007,Movie,Anime,Fun,tmdb:7.6,https://image.tmdb.org/t/p/w500/lMsUYZq5ITW3rAqF3tB7v74KEnH.jpg
+Animal House,1978,Movie,English,Fun,tmdb:7.0,https://image.tmdb.org/t/p/w500/1iYG1mu8dPIXPzUBZF4OE1KUMMl.jpg
+The Secret Life of Pets,2016,Movie,English,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/g3Hms6AE174doeGR1gz5zX5sVsv.jpg
+Drishyam 2,2022,Movie,Indian,Fun,tmdb:8.0,https://image.tmdb.org/t/p/w500/wk8Vu0DI0MiNLaXXiVqAwjLRKL5.jpg
+Aradhana,1969,Movie,Indian,Fun,tmdb:7.0,https://image.tmdb.org/t/p/w500/92cbGcrhCpL9rwnCtklWCc4INHv.jpg
+Flavors of Youth,2018,Movie,English,Fun,tmdb:6.9,https://image.tmdb.org/t/p/w500/ueHeH5ergeHx27L4SCI9qlmwczA.jpg
+Prem Yog,1994,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/s7dsvU8Kd6HG9qH8Nfpprh7HOxO.jpg
+Dolly Ki Doli,2015,Movie,Indian,Fun,tmdb:5.4,https://image.tmdb.org/t/p/w500/8xn2K7FAa8JI8sXITW5M92b6u1Y.jpg
+Jis Desh Mein Ganga Rehta Hai,2000,Movie,Indian,Fun,tmdb:5.9,https://image.tmdb.org/t/p/w500/78wfFCpK6MMY5kSIKp3gEkPiRxP.jpg
+The Player,1992,Movie,English,Fun,tmdb:7.2,https://image.tmdb.org/t/p/w500/p4ys4a4yASjKuWzsNWY1B7xP5kZ.jpg
+The SpongeBob SquarePants Movie,2004,Movie,English,Fun,tmdb:7.0,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
+The Karate Kid,1984,Movie,English,Fun,tmdb:7.2,https://image.tmdb.org/t/p/w500/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg
+Sunglass,2013,Movie,Indian,Fun,tmdb:0.0,https://image.tmdb.org/t/p/w500/8NaJKWpyBQETP7rTCyjmoUQkHOw.jpg
+Boys and Girls,2000,Movie,English,Fun,tmdb:6.0,https://image.tmdb.org/t/p/w500/9zmvYVgcdoXPZQE44gN7nKHScD4.jpg
+Pratikar,1991,Movie,Indian,Fun,tmdb:1.0,https://image.tmdb.org/t/p/w500/4wlKkqag440TftkyPMZTMkWC6cZ.jpg
+Ramprasad Ki Tehrvi,2019,Movie,Indian,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/foD9NR46mToBj08POJ3ug41gBuI.jpg
+A Prairie Home Companion,2006,Movie,English,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/asMi90blB9dYIpeW1qEVDfiNEa.jpg
+Kautuk Srivastava : Anatomy Of Awkward,2018,Movie,Indian,Fun,tmdb:8.0,https://image.tmdb.org/t/p/w500/zHN69S4AWzffrnFMYukpFlEwWeV.jpg
+Alvin and the Chipmunks: The Road Chip,2015,Movie,English,Fun,tmdb:6.0,https://image.tmdb.org/t/p/w500/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg
+SLC Punk,1998,Movie,English,Fun,tmdb:7.1,https://image.tmdb.org/t/p/w500/7u3IZPuIOPjICi55K7cJgzV3e3B.jpg
+Vanity Fair,2004,Movie,English,Fun,tmdb:5.8,https://image.tmdb.org/t/p/w500/6GCjrrd1XIl8VSwjKo8c94LTwtd.jpg
+Johar-Mehmood in Goa,1965,Movie,Indian,Fun,tmdb:8.0,
+Nehlle Pe Dehlla,2007,Movie,Indian,Fun,tmdb:5.8,https://image.tmdb.org/t/p/w500/5ehrVp649NSVUmXoUjPc2ZolzdS.jpg
+Justice League: War,2014,Movie,English,Fun,tmdb:7.5,https://image.tmdb.org/t/p/w500/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg
+Mausam,1975,Movie,Indian,Fun,tmdb:4.0,https://image.tmdb.org/t/p/w500/ABB6QVLVDgC86aAyERAMTcYvM9.jpg
+Phillauri,2017,Movie,Indian,Fun,tmdb:6.3,https://image.tmdb.org/t/p/w500/wEls8ZZs5lm9rzQnXZJKqYgygVK.jpg
+The Prom,2020,Movie,English,Fun,tmdb:6.2,https://image.tmdb.org/t/p/w500/i7An8UravfzqaU7SuumaWEVRqVU.jpg
+Goon,2012,Movie,English,Fun,tmdb:6.4,https://image.tmdb.org/t/p/w500/czTnUvy1jrfbzzDbX0xny4pozAQ.jpg
+Alice,1988,Movie,English,Fun,tmdb:7.4,https://image.tmdb.org/t/p/w500/3EcTuXjJT6PnAcJDJYI4WbiupCV.jpg
+Louis C.K.: Hilarious,2010,Movie,English,Fun,tmdb:7.9,https://image.tmdb.org/t/p/w500/8mJMrrT4tkfZLMFvKQ0Hq6jlXbp.jpg
+Rang Birangi,1983,Movie,Indian,Fun,tmdb:5.2,https://image.tmdb.org/t/p/w500/rQCblOlhls54iwELMMkhI5cuIu3.jpg
+Double XL,2022,Movie,Indian,Fun,tmdb:5.0,https://image.tmdb.org/t/p/w500/n5pOwxgBj5M67FpiFLwOxSbJiVI.jpg
+Spider-Man: Into the Spider-Verse,2018,Movie,English,Fun,tmdb:8.4,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+Prem Kahani,1975,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/kchSj1fcIpHQKNmIlK3AmikDtbu.jpg
+The Next Three Days,2010,Movie,English,Calm,tmdb:7.1,https://image.tmdb.org/t/p/w500/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg
+Ek Tha Raja,1996,Movie,Indian,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/lCQddeuBl0FMjxo8AGUEW3AIBKa.jpg
+Kisna,2005,Movie,Indian,Calm,tmdb:7.4,https://image.tmdb.org/t/p/w500/b4homgKuE49RXW5d3aUW1C5bRtJ.jpg
+Ram Avtar,1988,Movie,Indian,Calm,tmdb:2.5,https://image.tmdb.org/t/p/w500/t1F3Ig5EE1fe7Y2heox8d9708up.jpg
+Just Cause,1995,Movie,English,Calm,tmdb:6.2,https://image.tmdb.org/t/p/w500/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg
+Nakkash,2019,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/d0mUu56E1IpGlBtnH1gPKf2arvH.jpg
+The Warning,2018,Movie,English,Calm,tmdb:6.0,https://image.tmdb.org/t/p/w500/vpiXfao6p0JonETFaLVhrpIkPTy.jpg
+A Writer's Odyssey,2021,Movie,English,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg
+Allied,2016,Movie,English,Calm,tmdb:6.8,https://image.tmdb.org/t/p/w500/5JlOrfXqKuaLuoTnmIPdQF1Nci2.jpg
+The Irishman,2019,Movie,English,Calm,tmdb:7.6,https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg
+Jaanam,1992,Movie,Indian,Calm,tmdb:4.0,https://image.tmdb.org/t/p/w500/mLFCXTzLbLKd8cvElNhraLhN4kZ.jpg
+Ip Man 3,2015,Movie,English,Calm,tmdb:7.0,https://image.tmdb.org/t/p/w500/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg
+Marnie,1964,Movie,English,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg
+Mushk,2020,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/hv4Q4HmSuOE1WcK7hkYuT7M9P5b.jpg
+Jappeloup,2013,Movie,English,Calm,tmdb:7.1,https://image.tmdb.org/t/p/w500/bXwcbKp9kCEYXNtWGWssjrmZ8FE.jpg
+Shree Ganesh,1962,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/hr6S93yhKS2FT9RgCrqNWsxJSJw.jpg
+Crazy Heart,2009,Movie,English,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg
+Luckhnowi Ishq,2015,Movie,Indian,Calm,tmdb:7.0,https://image.tmdb.org/t/p/w500/w9MaSwnmM6Qg5gYRSOAK2r1DQI3.jpg
+The Guilty,2021,Movie,English,Calm,tmdb:6.4,https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg
+Traffic,2000,Movie,English,Calm,tmdb:7.1,https://image.tmdb.org/t/p/w500/jbccmnqE4oAPI67bApgt2JiRPz8.jpg
+Chalk N Duster,2016,Movie,Indian,Calm,tmdb:7.3,https://image.tmdb.org/t/p/w500/ry5Vs8Zjh2yWQ1NSODpDxLfI7ok.jpg
+Love-Fire,1998,Movie,Indian,Calm,tmdb:0.0,
+Saanch Ko Aanch Nahin,1979,Movie,Indian,Calm,tmdb:0.0,
+Special 26,2013,Movie,Indian,Calm,tmdb:7.3,https://image.tmdb.org/t/p/w500/cOo6lOiZXO0zldPKsih9asKPWDo.jpg
+La Strada,1954,Movie,English,Calm,tmdb:8.0,https://image.tmdb.org/t/p/w500/xyisVfPrNybDieMp1nbCv6iBtdV.jpg
+Thelma & Louise,1991,Movie,English,Calm,tmdb:7.6,https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg
+Ilaaka,1989,Movie,Indian,Calm,tmdb:7.7,https://image.tmdb.org/t/p/w500/1IHto68OAJsOKfOz2rbWPOwn2jQ.jpg
+God's Own Country,2017,Movie,English,Calm,tmdb:7.8,https://image.tmdb.org/t/p/w500/uKShYyGsleXAZ6e6gK5jF6Wa2tW.jpg
+The Whistleblower,2010,Movie,English,Calm,tmdb:6.7,https://image.tmdb.org/t/p/w500/iIVcea2BHHi7RJgucGEmpt3zkED.jpg
+Ladli,2019,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/vq4khEDmQ6PiviAGGgPhSzyFzcH.jpg
+Chhapaak,2020,Movie,Indian,Calm,tmdb:7.6,https://image.tmdb.org/t/p/w500/cr5KqiolMMRUEJxrNLWESxyVVeU.jpg
+Teesra Kaun,1965,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/5y8oEEHo2OrCDFcJn4U5jZEbXDi.jpg
+Walk the Line,2005,Movie,English,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg
+21,2008,Movie,English,Calm,tmdb:6.7,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+Tadap,2021,Movie,Indian,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/nj0cMoZjLRrqN9SFW3wCXlSTYxd.jpg
+The Battleship Island,2017,Movie,Korean,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/7Pn9IK13JHhB7vS5TSgz79cdLra.jpg
+Miss Lovely,2014,Movie,Indian,Calm,tmdb:6.0,https://image.tmdb.org/t/p/w500/u2fzSN0JzNNoKj5MevilNkvTevg.jpg
+The Innocents,2016,Movie,English,Calm,tmdb:7.1,https://image.tmdb.org/t/p/w500/8ZSPkyzq80jBVezRlC80kvV6QZr.jpg
+The Manchurian Candidate,2004,Movie,English,Calm,tmdb:6.5,https://image.tmdb.org/t/p/w500/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg
+EK Chotti Si Love Story,2002,Movie,Indian,Calm,tmdb:4.6,https://image.tmdb.org/t/p/w500/aUWLRZPp9CA5Ch0rVzjzuZxpHLs.jpg
+Sau Din Saas Ke,1980,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/3ehhWCXs6FcA5kumHDRolvcAzOd.jpg
+Damaad,1951,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/xpo9VUge1JZRT438K6cyyqTR4R7.jpg
+Veer-Zaara,2004,Movie,Indian,Calm,tmdb:7.4,https://image.tmdb.org/t/p/w500/j267YqLvKAHeyykTflxzpgVgviQ.jpg
+Facing the Giants,2006,Movie,English,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/33gkfCURxgBBpiAnrWua4Txmrvs.jpg
+Son of God,2014,Movie,English,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/7xWa1p2qMn4rxGIvRDDebJrXMiI.jpg
+Blood Simple,1984,Movie,English,Calm,tmdb:7.3,https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg
+Girl with a Pearl Earring,2003,Movie,English,Calm,tmdb:6.6,https://image.tmdb.org/t/p/w500/AdomZBdFbu3tt0UCr4lR58SdXHr.jpg
+Dastan-E-Laila Majnu,1974,Movie,Indian,Calm,tmdb:0.0,
+Anaarkali of Aarah,2017,Movie,Indian,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/nRK1wUXVtiSHNPDRuLPgsQJcteT.jpg
+Farewell My Concubine,1993,Movie,English,Calm,tmdb:7.9,https://image.tmdb.org/t/p/w500/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg
+Kiklee,1960,Movie,Indian,Calm,tmdb:0.0,
+The Thomas Crown Affair,1968,Movie,English,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/oODAwa2AK3fXvK93GCbq7dFLZPi.jpg
+Ashiana,1952,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/wDYeS5HV44F15ed5qmqazpNEvNA.jpg
+Sarfarosh,1999,Movie,Indian,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/pu7ykvptVV3hEPuf2soqoCwyJMl.jpg
+The Painted Veil,2006,Movie,English,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/k41IvHDLgZO2ae7RuU77wQjScIj.jpg
+Bombshell,2019,Movie,English,Calm,tmdb:6.8,https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg
+No Man of God,2021,Movie,English,Calm,tmdb:6.7,https://image.tmdb.org/t/p/w500/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg
+Police Story: Lockdown,2013,Movie,English,Calm,tmdb:6.2,https://image.tmdb.org/t/p/w500/q5i3Qkid4bAxhO11UeTclZbGhIX.jpg
+Zinda Dil,2003,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/j6lyl3QEJsNKcKrNrQoohlrCA7T.jpg
+Gun Crazy,1950,Movie,English,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg
+Le Trou,1960,Movie,English,Calm,tmdb:8.3,https://image.tmdb.org/t/p/w500/8kxtOm7D992iAaOzUoWmNQwbXjs.jpg
+Ek Second... Jo Zindagi Badal De...,2010,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/jufqb9IesNFBkEgmIUmn6b9LCxK.jpg
+Mr. Lambu,1956,Movie,Indian,Calm,tmdb:0.0,
+Umeed Ki Kiran,2017,Movie,Indian,Calm,tmdb:0.0,
+Khuda Kasam,1981,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/pNiwhj22VF0mxHbX9OGwbEmwdas.jpg
+Munna,1954,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/u7yuCXYUt0jxGnhR9VprVjLew6i.jpg
+City Lights,2014,Movie,Indian,Calm,tmdb:7.0,https://image.tmdb.org/t/p/w500/rrzypABFDyTpwbTLbmsXU9A8qEM.jpg
+Hunterrr,2015,Movie,Indian,Calm,tmdb:6.3,https://image.tmdb.org/t/p/w500/2NEEd6vpnLjPP2LaiT4WDcMvxZ9.jpg
+Kucch To Hai,2003,Movie,Indian,Calm,tmdb:4.2,https://image.tmdb.org/t/p/w500/yBGvpTTAvEars5TTQOOevhc3mfs.jpg
+Cat on a Hot Tin Roof,1958,Movie,English,Calm,tmdb:7.7,https://image.tmdb.org/t/p/w500/vWf1AR8rC6WjGKELlmLv2VAUZJB.jpg
+Kedarnath,2018,Movie,Indian,Calm,tmdb:6.6,https://image.tmdb.org/t/p/w500/viq6ltqew6ZU6dur1FUVKpf9tiZ.jpg
+Criminal Activities,2015,Movie,English,Calm,tmdb:5.9,https://image.tmdb.org/t/p/w500/tMygAfhHPUtvAADosZDH9XMQxuN.jpg
+Cell 211,2009,Movie,English,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/koap5B3bQHQi3yaZ39vpWR66TGP.jpg
+Dharmatma,1975,Movie,Indian,Calm,tmdb:5.0,https://image.tmdb.org/t/p/w500/fQ0S7Nq9v46Q7T1da6tBpSQnK5x.jpg
+Wafadaar,1985,Movie,Indian,Calm,tmdb:0.0,
+Hard Eight,1997,Movie,English,Calm,tmdb:6.9,https://image.tmdb.org/t/p/w500/1l5UaoP25Ak8PWCKIULQz70yF03.jpg
+The Kitchen,2019,Movie,English,Calm,tmdb:6.2,https://image.tmdb.org/t/p/w500/l3smhHvnczXg8E2WzysRVKIXSYJ.jpg
+Picnic at Hanging Rock,1975,Movie,English,Calm,tmdb:7.2,https://image.tmdb.org/t/p/w500/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg
+Kranti Kshetra,1994,Movie,Indian,Calm,tmdb:10.0,https://image.tmdb.org/t/p/w500/kuSJTZpTNTzw2czr0rB8MPA4M36.jpg
+Murder at 1600,1997,Movie,English,Calm,tmdb:6.1,https://image.tmdb.org/t/p/w500/5S469MSJIzb6J0PIsghUn52uzfP.jpg
+Double Jeopardy,1999,Movie,English,Calm,tmdb:6.5,https://image.tmdb.org/t/p/w500/lSYMeHoUh9uWX2kXi9Fqe4BX2Ml.jpg
+Children of Paradise,1945,Movie,English,Calm,tmdb:8.2,https://image.tmdb.org/t/p/w500/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg
+High Life,2018,Movie,English,Calm,tmdb:5.8,https://image.tmdb.org/t/p/w500/ftRRIYNzpTDYeTznrAxgT5v1vJY.jpg
+Jai Hind,2015,Movie,Indian,Calm,tmdb:0.0,
+The Dark Side of Life: Mumbai City,2018,Movie,Indian,Calm,tmdb:6.0,https://image.tmdb.org/t/p/w500/vrR2HZouKYrJ4r9wowHZQ5el2uu.jpg
+Kursk,2018,Movie,English,Calm,tmdb:6.7,https://image.tmdb.org/t/p/w500/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
+Kismet,1943,Movie,Indian,Calm,tmdb:5.5,https://image.tmdb.org/t/p/w500/mXdZGyLCCZW4S3gnL92xJLxF2Ld.jpg
+Main Zaroor Aaunga,2019,Movie,Indian,Calm,tmdb:0.0,https://image.tmdb.org/t/p/w500/tq9mZ3aUQmHcMNi4xxvNTRMRLjm.jpg
+The Bandit,1996,Movie,English,Calm,tmdb:7.4,https://image.tmdb.org/t/p/w500/44KTRoayojxpzti2okBZGKmjEGM.jpg
+8 Mile,2002,Movie,English,Calm,tmdb:7.1,https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg
+W.,2008,Movie,English,Calm,tmdb:6.2,https://image.tmdb.org/t/p/w500/nJm8UF4zbUYEoku9seEtz1PTJGS.jpg
+Maudie,2016,Movie,English,Calm,tmdb:7.7,https://image.tmdb.org/t/p/w500/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
+Peaceful Warrior,2006,Movie,English,Calm,tmdb:7.5,https://image.tmdb.org/t/p/w500/r4VQCZe3aSo7TmmsxcyLqaoMR1l.jpg
+Jaal,1967,Movie,Indian,Calm,tmdb:8.0,https://image.tmdb.org/t/p/w500/bTjCnWRXSJVDjRvvBn0z6Z8bRMc.jpg
+Daulat Ki Jung,1992,Movie,Indian,Calm,tmdb:6.7,https://image.tmdb.org/t/p/w500/6hyO0QG9K0TczBTnn8M4p752wtB.jpg
+Apna Bana Lo,1982,Movie,Indian,Calm,tmdb:10.0,https://image.tmdb.org/t/p/w500/47R84lK7og5m0Z2CVoYcodVt5rF.jpg
+Naag Panchami,1972,Movie,Indian,Calm,tmdb:0.0,
+The Holy Mountain,1973,Movie,English,Calm,tmdb:7.6,https://image.tmdb.org/t/p/w500/bvuWgH7MGYHBBdNeZcFDDA8vjYY.jpg
+Push,2009,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/fHStfRjQGstuqtUz4Q22lbFU58M.jpg
+Buddha Mil Gaya,1971,Movie,Indian,Dark-Gritty,tmdb:5.8,https://image.tmdb.org/t/p/w500/mFRwHluavwB2lORbyKIHlucKsdk.jpg
+Mera Muqaddar,1988,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/2pSNtxDURUHVvtoRUiCVXnPvyWo.jpg
+The Bird with the Crystal Plumage,1970,Movie,English,Dark-Gritty,tmdb:7.2,https://image.tmdb.org/t/p/w500/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg
+White Zombie,1932,Movie,English,Dark-Gritty,tmdb:5.9,https://image.tmdb.org/t/p/w500/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg
+Ichi the Killer,2001,Movie,Japanese,Dark-Gritty,tmdb:7.0,https://image.tmdb.org/t/p/w500/k8j4YLZlda98dqp9ErymKzjYowG.jpg
+Friday the 13th Part 2,1981,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/92rGctBMTv4uaSlIBVnhz01kRWL.jpg
+Insaaf: The Final Justice,1997,Movie,Indian,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/A6snkSrA2GaKp1MevSmB7vTf3Z4.jpg
+Sweetheart,2019,Movie,English,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg
+To Steal from a Thief,2016,Movie,English,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/elEaCDGOymaTePaM7oL41WaT0aC.jpg
+Bound to Vengeance,2015,Movie,English,Dark-Gritty,tmdb:5.7,https://image.tmdb.org/t/p/w500/oVVJSRhG9dcAdzTp83AUD1nBlIc.jpg
+Jeepers Creepers 2,2003,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg
+The Keeper of Lost Causes,2013,Movie,English,Dark-Gritty,tmdb:7.1,https://image.tmdb.org/t/p/w500/cqf51OvCEkk5cTQV1hldHxU27ix.jpg
+Manhunter,1986,Movie,English,Dark-Gritty,tmdb:7.0,https://image.tmdb.org/t/p/w500/6rb24x39vV8n5301IelC8rCPJTH.jpg
+Resident Evil: The Final Chapter,2016,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg
+Miss Frontier Mail,1936,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/nVYzaYqPRTeURsQI73zAMJFKyQF.jpg
+Shadow of a Doubt,1943,Movie,English,Dark-Gritty,tmdb:7.5,https://image.tmdb.org/t/p/w500/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg
+The Curse of Frankenstein,1957,Movie,English,Dark-Gritty,tmdb:6.8,https://image.tmdb.org/t/p/w500/r9PDkqKhzdo54aqnOL88wUJY49B.jpg
+Dhund: The Fog,2003,Movie,Indian,Dark-Gritty,tmdb:6.0,https://image.tmdb.org/t/p/w500/lDrKjgcoa6HGCQ2yQEdUj8kXjlB.jpg
+Babumoshai Bandookbaaz,2017,Movie,Indian,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/9mITfdDWDOx0hhLxJLUhHO5we7j.jpg
+Zameen Ke Neeche,1999,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/4lRSMt5fDFeyerMUcgNCPRNC96C.jpg
+Taaqat,1995,Movie,Indian,Dark-Gritty,tmdb:4.0,https://image.tmdb.org/t/p/w500/yPfY8BnhUQ5wk2ZFhaxJJnCdQsa.jpg
+Kill List,2011,Movie,English,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/qwT2I3ons0oD58jIppKmd4qLtvB.jpg
+Ghost,2019,Movie,Indian,Dark-Gritty,tmdb:4.8,https://image.tmdb.org/t/p/w500/tPzw28qOSVU5kfyczbcOJkInqxF.jpg
+Ong Bak 2,2008,Movie,English,Dark-Gritty,tmdb:6.4,https://image.tmdb.org/t/p/w500/sGyB8kVPQsofyQV1T0jE2d6k4q4.jpg
+The Raid,2012,Movie,English,Dark-Gritty,tmdb:7.4,https://image.tmdb.org/t/p/w500/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg
+Joru ka Ghulam,2000,Movie,Indian,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/lqukWizp1euDvBjfx7FNFsQt5sp.jpg
+COVID-21: Lethal Virus,2021,Movie,English,Dark-Gritty,tmdb:5.5,https://image.tmdb.org/t/p/w500/5z8wVwHtFXbRWP2dwVPTj9906HS.jpg
+Point Break,1991,Movie,English,Dark-Gritty,tmdb:7.1,https://image.tmdb.org/t/p/w500/eGSfqknufcsXmM2Rb59H9SiNd4T.jpg
+Annabelle,2014,Movie,English,Dark-Gritty,tmdb:5.7,https://image.tmdb.org/t/p/w500/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg
+Mirrors 2,2010,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/gDr5TaM129kUNwXkUUZ7Cha2CNn.jpg
+Post Box 999,1958,Movie,Indian,Dark-Gritty,tmdb:0.0,
+Lucy,2014,Movie,English,Dark-Gritty,tmdb:6.4,https://image.tmdb.org/t/p/w500/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg
+Guru Mahaaguru,2002,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/1IFVzTLP3x1U8OSJp1Lnokk7Pt1.jpg
+The Hunger Games: Mockingjay - Part 2,2015,Movie,English,Dark-Gritty,tmdb:6.9,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
+Shalimar,1978,Movie,Indian,Dark-Gritty,tmdb:5.8,https://image.tmdb.org/t/p/w500/4lTxwxaAXnrvfGO5mafeD1kZ7Ae.jpg
+Begotten,1991,Movie,English,Dark-Gritty,tmdb:5.9,https://image.tmdb.org/t/p/w500/qYJh4HESlOyZll77erHcVAKqrbt.jpg
+1920 London,2016,Movie,Indian,Dark-Gritty,tmdb:4.4,https://image.tmdb.org/t/p/w500/rs4RBiOX8qoUG5bw1SlGFuzUYws.jpg
+Final Score,2018,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/5m3FEfxGQ7MdNNfUwNtA6paXRDs.jpg
+Moksha,1993,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/mRd7lRkK49SafoucODqDr8WIKPP.jpg
+Frankenstein's Army,2013,Movie,English,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/tBDuUfnAyN2OTHhyy4xyUrU8C2A.jpg
+Nirdosh,2018,Movie,Indian,Dark-Gritty,tmdb:5.5,https://image.tmdb.org/t/p/w500/iO4D1cXwQxKqsvyilHUSGqdD6G4.jpg
+47 Meters Down,2017,Movie,English,Dark-Gritty,tmdb:5.8,https://image.tmdb.org/t/p/w500/lMcsEOcd6crzfF0pjsGkO5Pq01t.jpg
+Black Widow,2021,Movie,English,Dark-Gritty,tmdb:7.4,https://image.tmdb.org/t/p/w500/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg
+13 Sins,2014,Movie,English,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/x4tC1s6oFG9nEyxVSM0FiIsLea1.jpg
+Paap Ki Duniya,1988,Movie,Indian,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/pm6w6OLXBkwpE6pyASrTGjx12YL.jpg
+Wrong Turn,2003,Movie,English,Dark-Gritty,tmdb:6.4,https://image.tmdb.org/t/p/w500/12G5V0dTmljnv7RFMT144dJ2chh.jpg
+Captive State,2019,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg
+King Kong,1933,Movie,English,Dark-Gritty,tmdb:7.6,https://image.tmdb.org/t/p/w500/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg
+Escape from L.A.,1996,Movie,English,Dark-Gritty,tmdb:5.9,https://image.tmdb.org/t/p/w500/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg
+Below,2002,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/4tsaLD98DcXh4ltOn9wEWhsUkSc.jpg
+After The Third Bell,2014,Movie,Indian,Dark-Gritty,tmdb:0.0,
+Fear,2007,Movie,Indian,Dark-Gritty,tmdb:2.0,https://image.tmdb.org/t/p/w500/pOSo3Q4gljfMOJcxeqQivQCI4hC.jpg
+Stigmata,1999,Movie,English,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/8JcIm3ePBQR6scrdidnvdt2HblN.jpg
+Deep Red,1975,Movie,English,Dark-Gritty,tmdb:7.8,https://image.tmdb.org/t/p/w500/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg
+Wanted,2008,Movie,English,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/cbDMsV4VJAL2xJ2JXdWWjmUXZkT.jpg
+Kill Bill: The Whole Bloody Affair,2011,Movie,English,Dark-Gritty,tmdb:8.0,https://image.tmdb.org/t/p/w500/zomX76Pf3nUaTzRBk5BveLk1QPu.jpg
+Morgan,2016,Movie,English,Dark-Gritty,tmdb:5.8,https://image.tmdb.org/t/p/w500/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg
+The Cannabis Diary,2022,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/heQLSiXbJ4OaEQAxbH3PYmjt3fu.jpg
+Jaws,1975,Movie,English,Dark-Gritty,tmdb:7.7,https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg
+Timecop,1994,Movie,English,Dark-Gritty,tmdb:6.0,https://image.tmdb.org/t/p/w500/qDjne2UffjOpZAg9cFmzteWqhd3.jpg
+Mardaani 2,2019,Movie,Indian,Dark-Gritty,tmdb:7.1,https://image.tmdb.org/t/p/w500/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg
+May God Save Us,2016,Movie,English,Dark-Gritty,tmdb:6.7,https://image.tmdb.org/t/p/w500/nTF8FzV5CgiH4Qi8YrF1Ef3w63U.jpg
+Invasion of the Body Snatchers,1956,Movie,English,Dark-Gritty,tmdb:7.5,https://image.tmdb.org/t/p/w500/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg
+Friday the 13th Part VI: Jason Lives,1986,Movie,English,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/3qyCfzwY418lbuFEaKX5rKxKlnJ.jpg
+The Fury,1978,Movie,English,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/cQCxG3TDaFi34HdKgaa1lhv8wXJ.jpg
+Blood and Black Lace,1964,Movie,English,Dark-Gritty,tmdb:7.4,https://image.tmdb.org/t/p/w500/siEti5iNAbN91Q3AR2XRPfJ1E6O.jpg
+Pulse,2001,Movie,Japanese,Dark-Gritty,tmdb:6.6,https://image.tmdb.org/t/p/w500/qYbNsOPWacWVyDCq0OBH8DlPGjJ.jpg
+The Long Kiss Goodnight,1996,Movie,English,Dark-Gritty,tmdb:6.6,https://image.tmdb.org/t/p/w500/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg
+The Sentinel,2006,Movie,English,Dark-Gritty,tmdb:6.0,https://image.tmdb.org/t/p/w500/wPFVeVYuFhCnnOAZZHpMROCbssE.jpg
+The Hobbit: An Unexpected Journey,2012,Movie,English,Dark-Gritty,tmdb:7.3,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
+Wish Upon,2017,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+The Corruptor,1999,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/ab5XxKzpBkpGkEFJq6t0SiQUWgw.jpg
+The Wolf of Snow Hollow,2020,Movie,English,Dark-Gritty,tmdb:6.2,https://image.tmdb.org/t/p/w500/nXeTSXR5ryFwxrlpmD9hhXJTAuc.jpg
+Crawl,2019,Movie,English,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/mKxpYRIrCZLxZjNqpocJ2RdQW8v.jpg
+The Wife,2021,Movie,Indian,Dark-Gritty,tmdb:1.0,https://image.tmdb.org/t/p/w500/wmGc2FqBJpO02hkmZbSPMgkz3e3.jpg
+Ninja: Shadow of a Tear,2013,Movie,English,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/w1nQyDLm1onDbTSnPnalbDIcGnx.jpg
+Wrong Turn 3: Left for Dead,2009,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/84s4LMWuGbm4xPWW5PSbHyQhh33.jpg
+sarkari mehmaan,1979,Movie,Indian,Dark-Gritty,tmdb:0.0,
+Two Mules for Sister Sara,1970,Movie,English,Dark-Gritty,tmdb:7.0,https://image.tmdb.org/t/p/w500/2G9eM8UAM57TanLBhuPmz3jaNZG.jpg
+Riyasat,2014,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/19qeZ3pcqoqAMCuMUlzhQCsSbXl.jpg
+Missing in Action,1984,Movie,English,Dark-Gritty,tmdb:5.8,https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg
+The Unholy,2021,Movie,English,Dark-Gritty,tmdb:6.7,https://image.tmdb.org/t/p/w500/bShgiEQoPnWdw4LBrYT5u18JF34.jpg
+Troy,2004,Movie,English,Dark-Gritty,tmdb:7.1,https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg
+Cold Eyes,2013,Movie,Korean,Dark-Gritty,tmdb:7.5,https://image.tmdb.org/t/p/w500/i1a1rk2qPrxIF5pYyBB2oSTa6OR.jpg
+Ocean's Eleven,2001,Movie,English,Dark-Gritty,tmdb:7.4,https://image.tmdb.org/t/p/w500/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg
+Thesis,1996,Movie,English,Dark-Gritty,tmdb:7.4,https://image.tmdb.org/t/p/w500/m9o1oQrCBgL3EnvCqBr7xQ2Haco.jpg
+SPL II: A Time for Consequences,2015,Movie,English,Dark-Gritty,tmdb:6.8,https://image.tmdb.org/t/p/w500/lCy3410NhfJiB6XoCaePJXbldv0.jpg
+Jurrat,1989,Movie,Indian,Dark-Gritty,tmdb:0.0,
+Inspector,1956,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/sDs0avIe1oCqq5RV3dwBMpXYhzq.jpg
+Machete Kills,2013,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/3i4UgSZmAJXt6Euy5azvknmzsm9.jpg
+Return of the Tooth Fairy,2020,Movie,English,Dark-Gritty,tmdb:6.5,https://image.tmdb.org/t/p/w500/n8XFS2FVStaBPS2vLqUuH2bAjVf.jpg
+Daayan,1997,Movie,Indian,Dark-Gritty,tmdb:0.0,https://image.tmdb.org/t/p/w500/tArgH8bxkZ3X6CwdI4A0X52HbLl.jpg
+Underworld: Awakening,2012,Movie,English,Dark-Gritty,tmdb:6.3,https://image.tmdb.org/t/p/w500/jN0uuc8U6M3sTg9zEaliJV60Stf.jpg
+Wheelman,2017,Movie,English,Dark-Gritty,tmdb:6.1,https://image.tmdb.org/t/p/w500/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+Sherlock Holmes,2009,Movie,English,Dark-Gritty,tmdb:7.2,https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg
+Dark Was the Night,2014,Movie,English,Dark-Gritty,tmdb:5.6,https://image.tmdb.org/t/p/w500/xSC7sWXbafOCa24itOHTpKXwOAV.jpg
+Kaala Samrajya,1999,Movie,Indian,Dark-Gritty,tmdb:1.0,https://image.tmdb.org/t/p/w500/hnmyn8DtJcpOr6n9FP3uSO0h1Uf.jpg
+Kahaani,2012,Movie,Indian,Lonely,tmdb:7.2,https://image.tmdb.org/t/p/w500/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg
+Dushman,1998,Movie,Indian,Lonely,tmdb:6.0,https://image.tmdb.org/t/p/w500/bUgHLNNz5jz8M9otUA2msVVn10J.jpg
+Jaani Dushman: Ek Anokhi Kahani,2002,Movie,Indian,Lonely,tmdb:4.6,https://image.tmdb.org/t/p/w500/e9Aps5rxiu3lzPgtccEERfReJ6R.jpg
+Chalo Ishq Ladaaye,2002,Movie,Indian,Lonely,tmdb:4.7,https://image.tmdb.org/t/p/w500/gOjdeBCBIAVK9JQyF1LlVwTfiwJ.jpg
+Suryavanshi,1992,Movie,Indian,Lonely,tmdb:5.8,https://image.tmdb.org/t/p/w500/lL7EaJNdXeFR8LkgnBQgPAneq8U.jpg
+Jaagruti,1992,Movie,Indian,Lonely,tmdb:2.5,https://image.tmdb.org/t/p/w500/6CzspjqceVJDfOgXlba7POwLjco.jpg
+Kadakh,2020,Movie,Indian,Lonely,tmdb:5.5,https://image.tmdb.org/t/p/w500/uvnJ92WolGcVr72LxBKAXP6twY6.jpg
+Kaun?,1999,Movie,Indian,Lonely,tmdb:6.1,https://image.tmdb.org/t/p/w500/tNiBlJVAscbSHiWllhpksmnDFgC.jpg
+X Zone,2020,Movie,Indian,Lonely,tmdb:9.5,https://image.tmdb.org/t/p/w500/vvHcqYgsW89FFDyayqlNaXWuXbk.jpg
+Chakra,1981,Movie,Indian,Lonely,tmdb:5.5,https://image.tmdb.org/t/p/w500/5zOTTxgUwmoFrsQ0VegDm3H6lB2.jpg
+Akhri Muqabla,1989,Movie,Indian,Lonely,tmdb:0.0,https://image.tmdb.org/t/p/w500/yuCqgEubxdz6YySyrfp6E9ITobO.jpg
+Umar Pachpan Ki Dil Bachpan Ka,1992,Movie,Indian,Lonely,tmdb:2.7,https://image.tmdb.org/t/p/w500/9v8HxMESzv0mv8YBMN7LSei6Ftn.jpg
+Madmast Barkhaa,2015,Movie,Indian,Lonely,tmdb:2.0,https://image.tmdb.org/t/p/w500/3Hajycp5WUlnX1hIoahNyral8x5.jpg
+Wig,2019,Movie,Indian,Lonely,tmdb:0.0,https://image.tmdb.org/t/p/w500/s4E9YrmT71TdeBGVWE2AMa4yQGR.jpg
+Shuruat,1999,Movie,Indian,Lonely,tmdb:0.0,
+Jab Tum Kaho,2016,Movie,Indian,Lonely,tmdb:0.0,
+Life is Suffering. Death is Salvation,2022,Movie,Indian,Lonely,tmdb:0.0,https://image.tmdb.org/t/p/w500/wIHzE201QsIq7uaI4tCkB5aDoGI.jpg
+Shadow Bird,2019,Movie,Indian,Lonely,tmdb:0.0,https://image.tmdb.org/t/p/w500/tyqwLKm7Sl4ign409GI8Jql5tLB.jpg
+Once Upon a Village,2020,Movie,Indian,Lonely,tmdb:0.0,https://image.tmdb.org/t/p/w500/qpf0S82Xi6KcJgMmniYobmFSLkS.jpg
+Dilli Gang,2013,Movie,Indian,Lonely,tmdb:5.0,https://image.tmdb.org/t/p/w500/8LHM31C5uX08vftdDxoIxhBUBuF.jpg
+Veeru Dada,1990,Movie,Indian,Lonely,tmdb:0.0,
+Doctor Who: A Christmas Carol,2010,Movie,English,Lonely,tmdb:8.0,https://image.tmdb.org/t/p/w500/hBcRd2e52ddwjjLzjxUJzdD4EEk.jpg
+Everything Everywhere All at Once,2022,Movie,English,Lonely,tmdb:7.9,https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg
+Return,2015,Movie,English,Lonely,tmdb:6.4,
+The Quest,1996,Movie,English,Lonely,tmdb:6.1,https://image.tmdb.org/t/p/w500/xMDo0ewl6XMZei44UNGMfho6eBq.jpg
+Hard to Kill,1990,Movie,English,Lonely,tmdb:6.0,https://image.tmdb.org/t/p/w500/nmtMNxslljllSTVtt7VIOXdxSZp.jpg
+Zardoz,1974,Movie,English,Lonely,tmdb:6.0,https://image.tmdb.org/t/p/w500/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg
+The Dyatlov Pass Incident,2013,Movie,English,Lonely,tmdb:5.9,https://image.tmdb.org/t/p/w500/8hyvniwVeSvKbTNKrY44ndMsQht.jpg
+The Resident,2011,Movie,English,Lonely,tmdb:5.7,https://image.tmdb.org/t/p/w500/6UQTABsuE8esn0RNG8FYS1QCEbu.jpg
+Ab Tumhare Hawale Watan Saathiyo,2004,Movie,Indian,Sad,tmdb:4.9,https://image.tmdb.org/t/p/w500/rxYbTEakxvnigRab30Nwlyu7lRC.jpg
+Salaakhen,1975,Movie,Indian,Sad,tmdb:6.7,https://image.tmdb.org/t/p/w500/gIKtw9IBEupv4j95pF6BEvgco0L.jpg
+Squad,2021,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/taDdCIxgCMRCi2PBYuuWozoi6D2.jpg
+Ankush,1986,Movie,Indian,Sad,tmdb:7.0,https://image.tmdb.org/t/p/w500/pXukJVT2MNsRH82hYDcIZng3XzL.jpg
+Loha,1987,Movie,Indian,Sad,tmdb:10.0,https://image.tmdb.org/t/p/w500/81NAUwD1JcoKDZDI6VtqD0yb0IV.jpg
+Parinati,1989,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/7CGMy5Cs8iAn1SfToi0rzMjG7c1.jpg
+Odd Couple,2022,Movie,Indian,Sad,tmdb:8.0,https://image.tmdb.org/t/p/w500/2pu506In14k4R5V5BjS7It6dxKM.jpg
+Tere Mere Sapne,1971,Movie,Indian,Sad,tmdb:3.0,https://image.tmdb.org/t/p/w500/vXXUzjt6OCEH1Xkm6cFfG1KS8um.jpg
+Doli,1969,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/sggki1BpbK0XwAynboghzV6TMdC.jpg
+Yaad Rakhegi Duniya,1992,Movie,Indian,Sad,tmdb:6.7,https://image.tmdb.org/t/p/w500/58Jsc16n371THuGaLDAeQxvv6fH.jpg
+Jahaan,2022,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/ccLthV6zda0OEMn4tHEYjZ7Q3XR.jpg
+Aulad,1968,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/2ATbx52m4KBclJ9MPcIV36emhmw.jpg
+The Inner Eye,1972,Movie,Indian,Sad,tmdb:5.3,https://image.tmdb.org/t/p/w500/lkCJjSNnhIL7zPOw6se3nFonbsh.jpg
+Adha Din Adhi Raat,1977,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/c8iC5KgpS4BfydIgJ809ls7vGd6.jpg
+Sadhu Aur Shaitaan,1968,Movie,Indian,Sad,tmdb:7.8,https://image.tmdb.org/t/p/w500/nPDWgIBTjkGU9lsvdOu07AOmai9.jpg
+Tamanna,1998,Movie,Indian,Sad,tmdb:8.2,https://image.tmdb.org/t/p/w500/2vnnruGc9oFQLlJzUlTNrf49Dcj.jpg
+Hum Pyar Tumhi Se Kar Baithe,2002,Movie,Indian,Sad,tmdb:2.0,https://image.tmdb.org/t/p/w500/v9StTL2hcO4GQRA6nKKdruEu7Bl.jpg
+Bandit Shakuntala,2023,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/z0gMFR6VvzNuRm3CKCQzOQEhLZE.jpg
+Be-Careful,2011,Movie,Indian,Sad,tmdb:10.0,https://image.tmdb.org/t/p/w500/a9ze8y6N6uSSxlRHoApN1Wr5l5v.jpg
+No Stranger at All,2023,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/nabRP9WfVN9kKPtdt65RpeFzvYW.jpg
+Gayab,2004,Movie,Indian,Sad,tmdb:4.9,https://image.tmdb.org/t/p/w500/bTEslOpqHHxqjB3Si3wM3DX8JWE.jpg
+Insaaf Ki Devi,1992,Movie,Indian,Sad,tmdb:10.0,https://image.tmdb.org/t/p/w500/mKQLnypUftEa9ZmsmjyQr86qDe2.jpg
+Kalapani,1958,Movie,Indian,Sad,tmdb:5.5,https://image.tmdb.org/t/p/w500/79eRXEcTmIYI5jPej6N4hDhx47q.jpg
+Soulmate,2020,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/vxYjil0by9St5jQNV8CftFbg5dU.jpg
+The Homecoming,2015,Movie,Indian,Sad,tmdb:0.0,
+Shaheed Bhagat Singh,1963,Movie,Indian,Sad,tmdb:0.0,
+Ramkali,1985,Movie,Indian,Sad,tmdb:0.0,
+Jawab Hum Denge,1987,Movie,Indian,Sad,tmdb:0.0,
+Hisaab Khoon Ka,1989,Movie,Indian,Sad,tmdb:10.0,https://image.tmdb.org/t/p/w500/mencyrUlFryeK4KlqH1ioU1iNcu.jpg
+Marine Drive,1955,Movie,Indian,Sad,tmdb:0.0,https://image.tmdb.org/t/p/w500/3OK80FYQxlzqmFKUMdCnRySBp2V.jpg
+Wajah,2018,Movie,Indian,Sad,tmdb:4.0,https://image.tmdb.org/t/p/w500/pSTaxQPDn7yHjFzd8621FUMhOtS.jpg
+Naam Gum Jaayega,2005,Movie,Indian,Sad,tmdb:5.0,https://image.tmdb.org/t/p/w500/6zEd14ZBTxriqZ2faaNZseeeFsU.jpg
+Safed Haathi,1977,Movie,Indian,Sad,tmdb:6.0,
+Padmashree Laloo Prasad Yadav,2005,Movie,Indian,Sad,tmdb:0.0,
+Kachchi Sadak,2006,Movie,Indian,Sad,tmdb:10.0,https://image.tmdb.org/t/p/w500/AbL61vDlt4JoPNyBC28ADoZub1V.jpg
+Bullet,1976,Movie,Indian,Sad,tmdb:4.0,https://image.tmdb.org/t/p/w500/ffIxLG2w2C5d3kXexnVXp8DG0u4.jpg
+Bacurau,2019,Movie,English,Sad,tmdb:7.7,https://image.tmdb.org/t/p/w500/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg
+Die Hard: With a Vengeance,1995,Movie,English,Sad,tmdb:7.2,https://image.tmdb.org/t/p/w500/lwTE6cUhGxRaJvQ5VPdletIGDPh.jpg
+The Absent One,2014,Movie,English,Sad,tmdb:7.1,https://image.tmdb.org/t/p/w500/4NJ5rel0BVJdacJIQAfu1y8628Z.jpg
+Eternals,2021,Movie,English,Sad,tmdb:7.0,https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg
+Red Sun,1971,Movie,English,Sad,tmdb:6.9,https://image.tmdb.org/t/p/w500/hDQyx0N8J5OJMJYpJLIX0SkKwT4.jpg
+Venom: Let There Be Carnage,2021,Movie,English,Sad,tmdb:6.9,https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg
+Riki-Oh: The Story of Ricky,1991,Movie,English,Sad,tmdb:6.7,https://image.tmdb.org/t/p/w500/xoeZ7Xl4C6xW5qE89hytjWV5ODg.jpg
+Mission: Impossible III,2006,Movie,English,Sad,tmdb:6.7,https://image.tmdb.org/t/p/w500/vKGYCpmQyV9uHybWDzXuII8Los5.jpg
+Red Sparrow,2018,Movie,English,Sad,tmdb:6.5,https://image.tmdb.org/t/p/w500/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg
+The Wolverine,2013,Movie,English,Sad,tmdb:6.4,https://image.tmdb.org/t/p/w500/8lzmovtARDXnE7kTDOum02i6fXv.jpg
+Futureworld,1976,Movie,English,Sad,tmdb:6.0,https://image.tmdb.org/t/p/w500/r0P4m8a2kNFoPBB5q38E9aWgIm6.jpg
+Ghost Rider,2007,Movie,English,Sad,tmdb:5.5,https://image.tmdb.org/t/p/w500/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg
+ABCD 2,2015,Movie,Indian,Empowered,tmdb:5.7,https://image.tmdb.org/t/p/w500/f7kAxvE8VXpOmeZZooPHkxhg3i0.jpg
+Swatantra Veer Savarkar,2023,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/7npv7PcG4DyQLlGiF8VyOX3pJqZ.jpg
+Breast Tax,2018,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/bEeV6z3UNVkAVsXjHTl0PK1WJ8e.jpg
+Journey Beyond Three Seas,1957,Movie,Indian,Empowered,tmdb:6.8,https://image.tmdb.org/t/p/w500/lCghZ4Ib3uyCfiALTaBZMnFFq9u.jpg
+Dance Dance,1987,Movie,Indian,Empowered,tmdb:6.3,https://image.tmdb.org/t/p/w500/k4bPDJ6Ru6rVEBqz9IypX2XkjuW.jpg
+Dushman Zamana,1992,Movie,Indian,Empowered,tmdb:2.0,https://image.tmdb.org/t/p/w500/i8yw66c1lCejZ222JjxNK3sBVvV.jpg
+Zulmi,1999,Movie,Indian,Empowered,tmdb:8.3,https://image.tmdb.org/t/p/w500/vA3lwh3EfSLzfMcOvI4gQyCDlD.jpg
+Andaz,1971,Movie,Indian,Empowered,tmdb:6.0,https://image.tmdb.org/t/p/w500/tReE32ErIsArbHBOOd0QIi7JzZh.jpg
+Do Kaliyan,1968,Movie,Indian,Empowered,tmdb:4.0,https://image.tmdb.org/t/p/w500/hAotyyZJq0gliE97LfGcRthYERP.jpg
+Bombay Boys,1998,Movie,Indian,Empowered,tmdb:6.5,https://image.tmdb.org/t/p/w500/1S2H4c2jtkPGEARENWrJdKSJo6p.jpg
+Chaloo Movie,2011,Movie,Indian,Empowered,tmdb:6.5,https://image.tmdb.org/t/p/w500/2gT3nGbv93jNhZKS2MuQz7aI0cM.jpg
+Nazrana,1987,Movie,Indian,Empowered,tmdb:10.0,https://image.tmdb.org/t/p/w500/yH5lvf6pNfRCSF0EkwEyNxtvxGJ.jpg
+Sher Singh Raana,2023,Movie,Indian,Empowered,tmdb:0.0,
+Dil-E-Nadaan,1982,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/cCOHeWj3uN6xXzNujCiNklIovKu.jpg
+Chitralekha,1964,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/e9Y5c9MpbqsXCiv82Ad1yAtd0E5.jpg
+The Delhi Files,2022,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/h5HarxBz6FZ8XX0VTTzyYKm7IqI.jpg
+Khilaaf,1991,Movie,Indian,Empowered,tmdb:9.0,https://image.tmdb.org/t/p/w500/5HKHcNTEihqcyKgcaiMlch3diTh.jpg
+My Birthday Song,2018,Movie,Indian,Empowered,tmdb:5.5,https://image.tmdb.org/t/p/w500/2Yb3m0xxJnhWMI2WWRwiLRdJPaH.jpg
+Sher Shivaji,1987,Movie,Indian,Empowered,tmdb:7.5,https://image.tmdb.org/t/p/w500/gXKN0NfBUh7tJLvEq61I1ZPjtGS.jpg
+Gully Boy: Live In Concert,2019,Movie,Indian,Empowered,tmdb:6.8,https://image.tmdb.org/t/p/w500/jZRTMZESWlLqeg5JxdHz8bXlG7p.jpg
+Topless,2005,Movie,Indian,Empowered,tmdb:9.0,
+Pearl of the Desert,2019,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/zNlWdfdgbeltF8dAUSJRQAyT3Kr.jpg
+Pathar Ke Insan,1990,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/tUfMaNopLw0cRkBzkmzO5gq0f4h.jpg
+The Vaccine War,2023,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/c32E9DBgZVCuTmAxD0TzzbUA8xr.jpg
+Ek Chitthi Pyar Bhari,1985,Movie,Indian,Empowered,tmdb:7.3,https://image.tmdb.org/t/p/w500/u3HW56aEe63cypCVghY1589DZAn.jpg
+Khiladi,1968,Movie,Indian,Empowered,tmdb:0.0,
+Kamlabai,1992,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/sKE44AoWGt0OT2ZsYlOs4QelOWF.jpg
+Gaddaar,1973,Movie,Indian,Empowered,tmdb:9.5,https://image.tmdb.org/t/p/w500/ojOb0ecfMH0bulyZaM4bkCQGNKs.jpg
+Paththar,1985,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/uwCIhpKOTSD9XjUk48q3zJUAWTI.jpg
+Bhakta Surdas,1942,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/mfSxJOpLyMBnJk4PIVhYOW17XVI.jpg
+In Search of Bidesia,2019,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/gU7wpcgJGa69bO1HgImbs1HE2cz.jpg
+Jeevan Daata,1991,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/rnznhhQ3qLvLXDXFgDWMcTp598g.jpg
+Judgement of Allah,1935,Movie,Indian,Empowered,tmdb:0.0,
+Prayas,1999,Movie,Indian,Empowered,tmdb:0.0,
+Rizwan,2020,Movie,Indian,Empowered,tmdb:7.0,https://image.tmdb.org/t/p/w500/8faeUEm0htBZg90GGQmfN9sjBKz.jpg
+Kaise Kahoon Ke Pyaar Hai,2003,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/iHZOfeT497359VknNr9YlkwIjnc.jpg
+Queen of Cinema,1925,Movie,Indian,Empowered,tmdb:0.0,
+Cute Kameena,2016,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/aMZ1eDl1Ebd0MhulzWkZDTItlcx.jpg
+Hum Intezaar Karenge,1989,Movie,Indian,Empowered,tmdb:10.0,https://image.tmdb.org/t/p/w500/tzeTXF3qDQiWJpq8dIFbeOUnR88.jpg
+Six Years of Freedom,1953,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/v0QT4n0tH6jaF5Cs5Q2b1rxnQzU.jpg
+Main Mulayam Singh Yadav,2021,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/iFm7hASVbwSaoixzoaBqnVVQJvz.jpg
+Kabhi Yun Bhi Toh Ho,2014,Movie,Indian,Empowered,tmdb:4.0,https://image.tmdb.org/t/p/w500/3Ci8DFw87k2S4FnrkAlS2QC1Dul.jpg
+Rakhi,1962,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/t7hj0MAXoZO1cKLR2ljGaLMmc27.jpg
+Police Aur Mujrim,1992,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/tUMo8GsXfNeMLn6yCDKIu4yxZTe.jpg
+Realm of Sound,1954,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/pfWoub7JY332I4RMAA4ijClGJp4.jpg
+Goonga Pehelwan,2014,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/lTbFZlzFU8RFy4ikgaoin9re5Cp.jpg
+Anna,2016,Movie,Indian,Empowered,tmdb:5.0,https://image.tmdb.org/t/p/w500/vDAin062HYDvJUVEoZArNa6aLBO.jpg
+Najma,1943,Movie,Indian,Empowered,tmdb:4.0,https://image.tmdb.org/t/p/w500/eohzPYDRwIbDvTVzGD8W4VgzjLe.jpg
+Prem Mayee,2012,Movie,Indian,Empowered,tmdb:0.0,https://image.tmdb.org/t/p/w500/8ArkNIjZULu264z4QMPUyehbGEn.jpg
+The Butterfly Effect,2004,Movie,English,Empowered,tmdb:7.6,https://image.tmdb.org/t/p/w500/l3ad5yv0Nn91zYPgeCjTvut2Nqg.jpg
+Fabrizio De André: Principe libero,2018,Movie,English,Empowered,tmdb:7.4,https://image.tmdb.org/t/p/w500/vPBLQRH0k05xiV6ciblrUBkRFbH.jpg
+Star Trek: First Contact,1996,Movie,English,Empowered,tmdb:7.3,https://image.tmdb.org/t/p/w500/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg
+Stargate: Continuum,2008,Movie,English,Empowered,tmdb:7.1,https://image.tmdb.org/t/p/w500/aP22JTw7or68WwqwFu1Bwrg66Ev.jpg
+The Vikings,1958,Movie,English,Empowered,tmdb:7.1,https://image.tmdb.org/t/p/w500/rm5idrQxHUh5XDDMU47uKVusQo0.jpg
+Homefront,2013,Movie,English,Empowered,tmdb:6.9,https://image.tmdb.org/t/p/w500/v55tfjL3QGeabkXAMXPb4olwjL0.jpg
+Kon-Tiki,2012,Movie,English,Empowered,tmdb:6.9,https://image.tmdb.org/t/p/w500/fpaChXpqpDnbCx0acszHBT4v4H0.jpg
+Flight Crew,2016,Movie,English,Empowered,tmdb:6.9,https://image.tmdb.org/t/p/w500/nL1WhzLiD2nZ7ixQcp5K0z4eEB7.jpg
+Ambulance,2022,Movie,English,Empowered,tmdb:6.7,https://image.tmdb.org/t/p/w500/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg
+The Mask of Zorro,1998,Movie,English,Empowered,tmdb:6.5,https://image.tmdb.org/t/p/w500/QBxafkXiqUadYWsVZGhi8qyPT6.jpg
+Smoke & Mirrors,2016,Movie,English,Empowered,tmdb:6.4,https://image.tmdb.org/t/p/w500/zzUMz6XnEEbYvkDPrBORdcDYQ62.jpg
+Dragon Blade,2015,Movie,English,Empowered,tmdb:6.4,https://image.tmdb.org/t/p/w500/suTAWYLIHAnkH2V4nC8t3AG7HjR.jpg
+Hancock,2008,Movie,English,Empowered,tmdb:6.3,https://image.tmdb.org/t/p/w500/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg
+Morbius,2022,Movie,English,Empowered,tmdb:6.2,https://image.tmdb.org/t/p/w500/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg
+Pacific Rim: Uprising,2018,Movie,English,Empowered,tmdb:6.1,https://image.tmdb.org/t/p/w500/qh3LRJG0ddJPe6Q7SqMJhBWxGHu.jpg
+American Outlaws,2001,Movie,English,Empowered,tmdb:6.1,https://image.tmdb.org/t/p/w500/bfHkHstHIBpDAokujviWZw3mL8M.jpg
+Ong Bak 3,2010,Movie,English,Empowered,tmdb:6.0,https://image.tmdb.org/t/p/w500/sIVrOJVeLqPz9NwNa0e4FpqJCWK.jpg
+Doomsday,2008,Movie,English,Empowered,tmdb:6.0,https://image.tmdb.org/t/p/w500/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg
+Hollow Man,2000,Movie,English,Empowered,tmdb:5.9,https://image.tmdb.org/t/p/w500/nAasMJGaytKKsMGbrXJr0g8OufK.jpg
+I Still See You,2018,Movie,English,Thrilling,tmdb:6.6,https://image.tmdb.org/t/p/w500/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
+Yakeen,2005,Movie,Indian,Thrilling,tmdb:4.6,https://image.tmdb.org/t/p/w500/v5EheBhPNfEk6jrVvI2UhZqU3p.jpg
+X-Men: The Last Stand,2006,Movie,English,Thrilling,tmdb:6.4,https://image.tmdb.org/t/p/w500/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg
+Dark Rose: The Name of Fear,2022,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/cZtWhmqJ6Z7tgFAPlarNOIQClcj.jpg
+The Delta Force,1986,Movie,English,Thrilling,tmdb:5.9,https://image.tmdb.org/t/p/w500/lW94s7xxkdOzYcueaqGJwcVVvjt.jpg
+The 39 Steps,1935,Movie,English,Thrilling,tmdb:7.4,https://image.tmdb.org/t/p/w500/yRnl3nTtKVTIBcLHHyXrrXPZWVS.jpg
+Verdict,2019,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/rwSSeo9Zgfl6C73jhcY30oX3kzI.jpg
+Death Note: The Last Name,2006,Movie,Japanese,Thrilling,tmdb:7.0,https://image.tmdb.org/t/p/w500/wd0Ri3v8tyRdWuA5PRS2rODOlIa.jpg
+Star Trek V: The Final Frontier,1989,Movie,English,Thrilling,tmdb:5.7,https://image.tmdb.org/t/p/w500/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg
+London Has Fallen,2016,Movie,English,Thrilling,tmdb:6.2,https://image.tmdb.org/t/p/w500/korY0GInEJThWEm23MRmErQ3GqT.jpg
+Faraaz,2023,Movie,Indian,Thrilling,tmdb:4.8,https://image.tmdb.org/t/p/w500/zm44m39czUrFME5p6O0owMz7z6D.jpg
+In the Shadow of Iris,2016,Movie,English,Thrilling,tmdb:5.9,https://image.tmdb.org/t/p/w500/tzVLPSoLfs0U3JHeGW5RKvsRAO.jpg
+Hummingbird,2013,Movie,English,Thrilling,tmdb:6.2,https://image.tmdb.org/t/p/w500/bN2aGUOxHRwGms68WTDr2MHzkKa.jpg
+Red Lights,2012,Movie,English,Thrilling,tmdb:6.2,https://image.tmdb.org/t/p/w500/sukxYMaUTNizM7bcEJ4YeH80e8h.jpg
+Maximum Risk,1996,Movie,English,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/18HVWwyLihWJPzGpSVl3omRRMyL.jpg
+Under Siege 2: Dark Territory,1995,Movie,English,Thrilling,tmdb:5.8,https://image.tmdb.org/t/p/w500/gElwFCQTbSK5hdK0PVyia547nst.jpg
+The Specialist,1994,Movie,English,Thrilling,tmdb:5.9,https://image.tmdb.org/t/p/w500/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg
+Meri Adalat,1984,Movie,Indian,Thrilling,tmdb:0.0,
+Paradise Hills,2019,Movie,English,Thrilling,tmdb:6.0,https://image.tmdb.org/t/p/w500/6DX7aKXh6ZT7W7dBZCn1c4tOBFp.jpg
+Shadow Dancer,2012,Movie,English,Thrilling,tmdb:5.9,https://image.tmdb.org/t/p/w500/ihkceEMJK4XtHXgw97ggsrE3ExP.jpg
+Warrior Savitri,2016,Movie,Indian,Thrilling,tmdb:2.5,https://image.tmdb.org/t/p/w500/lyNeae14whzHELtqXTWJGJPrnnh.jpg
+Mysteries Shaque,2004,Movie,Indian,Thrilling,tmdb:0.0,
+Fantastic Four: Rise of the Silver Surfer,2007,Movie,English,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg
+Aag Aandhi Aur Toofan,1994,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/y3xyQhoylU0ifAlEQwL86nPhZIG.jpg
+Angels & Demons,2009,Movie,English,Thrilling,tmdb:6.7,https://image.tmdb.org/t/p/w500/uRBapeuwV8yy4in4BkETHBDmWkH.jpg
+Karan Arjun,1995,Movie,Indian,Thrilling,tmdb:6.7,https://image.tmdb.org/t/p/w500/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg
+Voyagers,2021,Movie,English,Thrilling,tmdb:6.0,https://image.tmdb.org/t/p/w500/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg
+Four Pillars of Basement,2015,Movie,Indian,Thrilling,tmdb:10.0,
+Mrs. Serial Killer,2020,Movie,Indian,Thrilling,tmdb:6.4,https://image.tmdb.org/t/p/w500/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg
+The Patriot,1998,Movie,English,Thrilling,tmdb:5.8,https://image.tmdb.org/t/p/w500/5lmW1yBXAHkOc533wRDEqp3jlCV.jpg
+Fox,2009,Movie,Indian,Thrilling,tmdb:5.3,https://image.tmdb.org/t/p/w500/cddhNK23HaP85IOc6TE3Zp7A389.jpg
+Europa Report,2013,Movie,English,Thrilling,tmdb:6.3,https://image.tmdb.org/t/p/w500/tbsfaBjiAW5vfrV06R8KCOzVOYy.jpg
+Chalta Purza,1977,Movie,Indian,Thrilling,tmdb:10.0,https://image.tmdb.org/t/p/w500/l91XbXTaOicZcJ5SDgpY9Bvx4XT.jpg
+The Ones Below,2016,Movie,English,Thrilling,tmdb:5.9,https://image.tmdb.org/t/p/w500/vEWYRhI1Q3AcrnS9MB5zoogo69c.jpg
+Bright,2017,Movie,English,Thrilling,tmdb:6.2,https://image.tmdb.org/t/p/w500/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg
+Troll,2022,Movie,English,Thrilling,tmdb:6.8,https://image.tmdb.org/t/p/w500/9z4jRr43JdtU66P0iy8h18OyLql.jpg
+The Hunt for Red October,1990,Movie,English,Thrilling,tmdb:7.4,https://image.tmdb.org/t/p/w500/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg
+The Extraordinary Adventures of Adèle Blanc-Sec,2010,Movie,English,Thrilling,tmdb:6.1,https://image.tmdb.org/t/p/w500/1nYv7H0XJFgrJ5LewGlyNDvjqdq.jpg
+Echelon Conspiracy,2009,Movie,English,Thrilling,tmdb:6.3,https://image.tmdb.org/t/p/w500/eQgT8kdjWJots3dX5Xy11le2vHk.jpg
+Beyond a Reasonable Doubt,2009,Movie,English,Thrilling,tmdb:5.7,https://image.tmdb.org/t/p/w500/uZvWmX3fhjnlIbiou5ziR6aVN7b.jpg
+Blink,2018,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/7i8R4VAEmrUEY6caF13f7hYcHzz.jpg
+The Imaginarium of Doctor Parnassus,2009,Movie,English,Thrilling,tmdb:6.4,https://image.tmdb.org/t/p/w500/frkXs6OkFWxbn4RyykVUnYiD64W.jpg
+Fareb,1996,Movie,Indian,Thrilling,tmdb:1.0,https://image.tmdb.org/t/p/w500/iZsjnKgs3vwrYSK6hSOGXEYED5L.jpg
+The Day of the Jackal,1973,Movie,English,Thrilling,tmdb:7.5,https://image.tmdb.org/t/p/w500/vThgcb3JOj99yETg8WChuci4LV2.jpg
+The Desperate Hour,2021,Movie,English,Thrilling,tmdb:6.1,https://image.tmdb.org/t/p/w500/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg
+UFO,2018,Movie,English,Thrilling,tmdb:7.0,https://image.tmdb.org/t/p/w500/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg
+Vadh,2002,Movie,Indian,Thrilling,tmdb:8.0,https://image.tmdb.org/t/p/w500/wkd1gkp8JIndTA2CNo1vJXobws4.jpg
+Ganapath,2023,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/u6EFuMKcLIIOKhmWghY9vuaZdfW.jpg
+The Last Days,2013,Movie,English,Thrilling,tmdb:6.0,https://image.tmdb.org/t/p/w500/iRKybTUmEy3ZHS2o2ZDUCGyRAAn.jpg
+Grand Isle,2019,Movie,English,Thrilling,tmdb:5.5,https://image.tmdb.org/t/p/w500/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg
+Mohra,1994,Movie,Indian,Thrilling,tmdb:6.6,https://image.tmdb.org/t/p/w500/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg
+Planet of the Apes,2001,Movie,English,Thrilling,tmdb:5.7,https://image.tmdb.org/t/p/w500/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg
+Cube,1997,Movie,English,Thrilling,tmdb:6.8,https://image.tmdb.org/t/p/w500/iNwm6fpDqQ4WjwhYI8EW6LPklod.jpg
+On Her Majesty's Secret Service,1969,Movie,English,Thrilling,tmdb:6.6,https://image.tmdb.org/t/p/w500/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg
+The Hard Corps,2006,Movie,English,Thrilling,tmdb:6.1,https://image.tmdb.org/t/p/w500/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg
+The Numbers Station,2013,Movie,English,Thrilling,tmdb:5.5,https://image.tmdb.org/t/p/w500/bcpaJ2JYM2WKzzuRUAB869uMWnK.jpg
+Race 2,2013,Movie,Indian,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/980kT9TVullzQ4GDK8LvO61ZTcr.jpg
+Trauma Center,2019,Movie,English,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/8K73wvCTBA3XKgZTtOZWgENUnis.jpg
+2048: Nowhere to Run,2017,Movie,English,Thrilling,tmdb:6.8,https://image.tmdb.org/t/p/w500/1z8Lph4DctAtkY7ZIxbklJc1rdH.jpg
+The Arrival,1996,Movie,English,Thrilling,tmdb:6.0,https://image.tmdb.org/t/p/w500/7ARbqk8SqABU8QqANvpJCpMQ5nj.jpg
+Star Trek: The Motion Picture,1979,Movie,English,Thrilling,tmdb:6.5,https://image.tmdb.org/t/p/w500/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg
+Star Trek: Nemesis,2002,Movie,English,Thrilling,tmdb:6.3,https://image.tmdb.org/t/p/w500/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg
+Frequency,2000,Movie,English,Thrilling,tmdb:7.2,https://image.tmdb.org/t/p/w500/aFuw2yow5Og0e2M7uEHQtpS5GPz.jpg
+Erased,2012,Movie,English,Thrilling,tmdb:6.0,https://image.tmdb.org/t/p/w500/m9pUIC2lp40KvDxdiCRP7PFjXYs.jpg
+Death Note,2006,Movie,Japanese,Thrilling,tmdb:7.0,https://image.tmdb.org/t/p/w500/97nEMqXvr5STlFuhACmL8xSrH8f.jpg
+Kaun? Kaisey?,1983,Movie,Indian,Thrilling,tmdb:8.0,https://image.tmdb.org/t/p/w500/h6PdOynVlj7eRQu6saknrMoAWVg.jpg
+Fighter,2024,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/4NCqoeJHGtYfX03Br7JldEEPZdH.jpg
+Raat Aur Din,1967,Movie,Indian,Thrilling,tmdb:5.5,https://image.tmdb.org/t/p/w500/71OVdlfhkLLQLdJb6dxFET59elT.jpg
+The Pale Blue Eye,2022,Movie,English,Thrilling,tmdb:7.0,https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg
+Apartment,2010,Movie,Indian,Thrilling,tmdb:4.3,https://image.tmdb.org/t/p/w500/nicgZqvRWCVUlDZo77qAXMY9Jwe.jpg
+65,2023,Movie,English,Thrilling,tmdb:6.3,https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg
+Black Rose,2021,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/ii7nSUU8wjac2WO72BrZhtKwJRJ.jpg
+Safe House,2012,Movie,English,Thrilling,tmdb:6.4,https://image.tmdb.org/t/p/w500/7SYBPjv5ywF6cI4BSFFtlDyChT2.jpg
+Yeh Saali Zindagi,2011,Movie,Indian,Thrilling,tmdb:5.3,https://image.tmdb.org/t/p/w500/bbJ8UP16wjesxRo4l0oksoMqDm8.jpg
+The Girl in the Spider's Web,2018,Movie,English,Thrilling,tmdb:6.1,https://image.tmdb.org/t/p/w500/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+Dishkiyaoon,2014,Movie,Indian,Thrilling,tmdb:3.6,https://image.tmdb.org/t/p/w500/jsKD1GWFtzQD7dJzQ7MvLmxMpGr.jpg
+The Maze Runner,2014,Movie,English,Thrilling,tmdb:7.2,https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg
+Three Days of the Condor,1975,Movie,English,Thrilling,tmdb:7.3,https://image.tmdb.org/t/p/w500/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg
+Qatl,1986,Movie,Indian,Thrilling,tmdb:7.0,https://image.tmdb.org/t/p/w500/srVIG2DTqCZ9vQyYL9mTLHvP3s1.jpg
+Black Water,2018,Movie,English,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
+Criminal,1995,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/p9U0sdi5tv1rIuu98eXHP5OQcHW.jpg
+Jurassic World,2015,Movie,English,Thrilling,tmdb:6.7,https://image.tmdb.org/t/p/w500/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg
+Asha and Jyoti,1984,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/ez9KG1K4ZABq6A9N5uILi7H1L1B.jpg
+Teesri Aankh,1982,Movie,Indian,Thrilling,tmdb:4.8,https://image.tmdb.org/t/p/w500/1bvbxTBPU5ClIwXLc1PIwiXkHFG.jpg
+The Box,2009,Movie,English,Thrilling,tmdb:5.6,https://image.tmdb.org/t/p/w500/xMAmOu6xl4CsstixcuecBle9krd.jpg
+Zameen,2003,Movie,Indian,Thrilling,tmdb:6.3,https://image.tmdb.org/t/p/w500/jAKO0Rk0Vqm1Mabi6tpFTY202hz.jpg
+Sky Captain and the World of Tomorrow,2004,Movie,English,Thrilling,tmdb:5.8,https://image.tmdb.org/t/p/w500/ceW9Zi43hEQPdxkPkohVCcG1CuT.jpg
+I Am Mother,2019,Movie,English,Thrilling,tmdb:6.7,https://image.tmdb.org/t/p/w500/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg
+Pathaan,2023,Movie,Indian,Thrilling,tmdb:6.7,https://image.tmdb.org/t/p/w500/m1b9toKYyCujHuLoXB5GSDunO9e.jpg
+Jism 2,2012,Movie,Indian,Thrilling,tmdb:4.4,https://image.tmdb.org/t/p/w500/wQzx3Pw5WrBpxiWIg02Gu2FlsfU.jpg
+The Substitute,1996,Movie,English,Thrilling,tmdb:6.8,https://image.tmdb.org/t/p/w500/jlhe2SKWqW3F7BEQl3sOkgXLtkW.jpg
+Khuda Haafiz,2020,Movie,Indian,Thrilling,tmdb:6.8,https://image.tmdb.org/t/p/w500/4Glh9LgdsmlQxhUUKnCROHWdrsU.jpg
+The Blackout,2019,Movie,English,Thrilling,tmdb:6.4,https://image.tmdb.org/t/p/w500/avl9MEQhtvokNnzoWepkmHBZ2ss.jpg
+Main Hoon Qatil Jaadugarni,2001,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/2e5k8sHH7cUgaUpZZHzLLolju7M.jpg
+Pepper Chicken,2020,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/7vJBmkhDLFKZXcVuqgpHQNK7RTJ.jpg
+Kriti,2016,Movie,Indian,Thrilling,tmdb:7.3,https://image.tmdb.org/t/p/w500/bdmuzl6tsoqjbiFODH3f3DWIG97.jpg
+Telephone,1985,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/fqtMJONCX8U2lYWfRgCpv6Inf2z.jpg
+Mere Aagosh Mein,2000,Movie,Indian,Thrilling,tmdb:2.0,https://image.tmdb.org/t/p/w500/c9mn9stebA1IdXSZnKVQBc1dhK4.jpg
+Vicky Velingkar,2019,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/fksUsh37dXBWOV0mCgvR74CidsO.jpg
+The Vanishing of Sarah Miles,2022,Movie,Indian,Thrilling,tmdb:0.0,https://image.tmdb.org/t/p/w500/xYGfBvPAxOFGrfJuQePnZi6WQu6.jpg
+Westworld,1973,Movie,English,High-Energy,tmdb:6.8,https://image.tmdb.org/t/p/w500/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg
+Main Hoon Jadugar,1965,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/r1nDTjGjFjLrhmfYYA52vhx32NO.jpg
+Saazish,1975,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/tgssia9oOuPdqMXP4xIrISLxKrA.jpg
+Iron Man,2008,Movie,English,High-Energy,tmdb:7.6,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+Teenmoti,1995,Movie,Indian,High-Energy,tmdb:0.0,
+Tarzan and the Magical Lamp,1966,Movie,Indian,High-Energy,tmdb:0.0,
+Inquilaab,1984,Movie,Indian,High-Energy,tmdb:4.7,https://image.tmdb.org/t/p/w500/zgIevokLhAEQ6B0YWN0msF2QBdZ.jpg
+RX Suri,2015,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/s1m48lEZoDswqNvz8U0XY7yDfOi.jpg
+Blackthorn,2011,Movie,English,High-Energy,tmdb:6.6,https://image.tmdb.org/t/p/w500/3QtOCerjSPkS9fo8IBwDr7qAwoj.jpg
+Hatim Tai,1956,Movie,Indian,High-Energy,tmdb:0.0,
+Aag Aur Chingari,1994,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/36ILp2cMlewdRNJUOzSthHQlb4i.jpg
+The Marksman,2021,Movie,English,High-Energy,tmdb:6.9,https://image.tmdb.org/t/p/w500/6vcDalR50RWa309vBH1NLmG2rjQ.jpg
+Hidalgo,2004,Movie,English,High-Energy,tmdb:6.8,https://image.tmdb.org/t/p/w500/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg
+Pirates of the Caribbean: At World's End,2007,Movie,English,High-Energy,tmdb:7.2,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
+Panchaali,2018,Movie,Indian,High-Energy,tmdb:5.0,https://image.tmdb.org/t/p/w500/8x4TrRv0IMCYjqJbX0Yfaw63s6k.jpg
+Badmaash,1998,Movie,Indian,High-Energy,tmdb:7.0,https://image.tmdb.org/t/p/w500/54cAwn4dmOuffif33qzWqiL6DoS.jpg
+The New Mutants,2020,Movie,English,High-Energy,tmdb:6.2,https://image.tmdb.org/t/p/w500/wI95esQmT9F8eC1wchoRm2ua2HX.jpg
+Panaah,1992,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/aMtnblHwGUwXcGHPaD2Tb2IWtLF.jpg
+Dark Phoenix,2019,Movie,English,High-Energy,tmdb:6.0,https://image.tmdb.org/t/p/w500/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg
+Chori Chori,1972,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/2ATg1bVX0ilund4afp9UPsXpPBP.jpg
+Kate,2021,Movie,English,High-Energy,tmdb:6.7,https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg
+Ant-Man,2015,Movie,English,High-Energy,tmdb:7.1,https://image.tmdb.org/t/p/w500/cj2gWN7TdH1iUG6pUQyqv9N2AXc.jpg
+Bhavani Junction,1985,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/93gtPAxIVGPUaUuKVo4foI6iBqY.jpg
+The Librarian: Quest for the Spear,2004,Movie,English,High-Energy,tmdb:6.2,https://image.tmdb.org/t/p/w500/hGF0kp0nJqmcQzywSCjkt6eykE4.jpg
+Kal Ki Awaz,1992,Movie,Indian,High-Energy,tmdb:3.0,https://image.tmdb.org/t/p/w500/n4EFy4dV8Sh9GH1wxbaI1YqQT6T.jpg
+Young Guns II,1990,Movie,English,High-Energy,tmdb:6.5,https://image.tmdb.org/t/p/w500/yHBkZP64e4TeNvJ56xydJDQjqD3.jpg
+Khakee,2004,Movie,Indian,High-Energy,tmdb:6.4,https://image.tmdb.org/t/p/w500/dMsqwWFl51t8jXR0tWzjEuO8H4l.jpg
+Phool Aur Aag,1999,Movie,Indian,High-Energy,tmdb:10.0,https://image.tmdb.org/t/p/w500/lQAP8DT95xUhDsstaIl4PjT1NeN.jpg
+Salaami,1994,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/hrSB3IK37BkJobaky7rsBxBfAR9.jpg
+Congo,1995,Movie,English,High-Energy,tmdb:5.5,https://image.tmdb.org/t/p/w500/hPNSToNIIpRO6y5Rh973leqQqNr.jpg
+Doctor Who: The Runaway Bride,2006,Movie,English,High-Energy,tmdb:7.7,https://image.tmdb.org/t/p/w500/gkTCC4VLv8jATM3kouAUK3EaoGd.jpg
+Godzilla 2000: Millennium,1999,Movie,Japanese,High-Energy,tmdb:6.9,https://image.tmdb.org/t/p/w500/aER55kapaLqHbrdfqebuVCORnpi.jpg
+Adventures of Tarzan,1985,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/hFrripxz3ynrWLzkXtPStnwOmnx.jpg
+Alibaba Marjinaa,1977,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/kqKyxpq5ZAzjHDi1gSN4lYWIUop.jpg
+Avalon,2001,Movie,English,High-Energy,tmdb:6.6,https://image.tmdb.org/t/p/w500/xm8byLTLqscSae3vFJDDggNeH1j.jpg
+Aaj Ke Angaarey,1988,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/wGJRXUbMMk6iqgGni7X17dDQYKk.jpg
+Teen Wolf: The Movie,2023,Movie,English,High-Energy,tmdb:7.8,https://image.tmdb.org/t/p/w500/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg
+Police Officer,1992,Movie,Indian,High-Energy,tmdb:2.5,https://image.tmdb.org/t/p/w500/j91CnZnYdb192FiDU9AnTFv1YT8.jpg
+Dil Ek Mandir,1963,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/7n35zwO2YT4MzTp6kq0g7ioMFQr.jpg
+Made in India,2022,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/z2VpXuzVg1862YltxNNumyhPgR9.jpg
+Meraa Dost Meraa Dushman,1984,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/o2mRDV1Y0XNeU5gJyxc2XG54tkv.jpg
+The Marine 4: Moving Target,2015,Movie,English,High-Energy,tmdb:6.4,https://image.tmdb.org/t/p/w500/qpOV33E2JARGqWsdicAh7BZAmya.jpg
+Zack Snyder's Justice League,2021,Movie,English,High-Energy,tmdb:8.2,https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg
+Commando - A One Man Army,2013,Movie,Indian,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/atBgLfwxFERXExObsqK1jFoCTZ.jpg
+The War of the Worlds,1953,Movie,English,High-Energy,tmdb:6.8,https://image.tmdb.org/t/p/w500/gzc75Za4ArqfXIIr7STNnIE5rnA.jpg
+Pathfinder,2007,Movie,English,High-Energy,tmdb:5.6,https://image.tmdb.org/t/p/w500/mME7efKNTU7jzXTgFkI1t0aQUiz.jpg
+Cyborg,1989,Movie,English,High-Energy,tmdb:5.6,https://image.tmdb.org/t/p/w500/nOspcG8HP6KPdMvzezavRbzYCEw.jpg
+X2,2003,Movie,English,High-Energy,tmdb:7.0,https://image.tmdb.org/t/p/w500/rtrd4qieMAhoUshu83Vi1GazM1O.jpg
+Captain America: Civil War,2016,Movie,English,High-Energy,tmdb:7.4,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
+Suicide Squad,2016,Movie,English,High-Energy,tmdb:5.9,https://image.tmdb.org/t/p/w500/xFw9RXKZDvevAGocgBK0zteto4U.jpg
+Tombstone,1993,Movie,English,High-Energy,tmdb:7.6,https://image.tmdb.org/t/p/w500/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg
+Koyla,1997,Movie,Indian,High-Energy,tmdb:6.7,https://image.tmdb.org/t/p/w500/rP12AzvscPo6WfKdrkw1Nfv2KrK.jpg
+Rohingya,2021,Movie,Indian,High-Energy,tmdb:6.0,https://image.tmdb.org/t/p/w500/mobBTkJ6dvDWiyNwVTXl946mG3p.jpg
+Tarzan Comes to Delhi,1965,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/xEfQ8l9DBA7icEhvANiiMKyF7Qp.jpg
+Conquest of the Planet of the Apes,1972,Movie,English,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/tzKZRY2opw5MruSkevffgT5ocun.jpg
+The Man with the Iron Fists 2,2015,Movie,English,High-Energy,tmdb:5.6,https://image.tmdb.org/t/p/w500/n1U7x2OMsyI28auLY3U9XB3udl7.jpg
+Aaj Ke Sholey,1985,Movie,Indian,High-Energy,tmdb:8.5,https://image.tmdb.org/t/p/w500/A7a78ROybFePq4Xx1FXNXuK7NC3.jpg
+Parallels,2015,Movie,English,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/fqUallsX9KSSey1tw7AbujlOmOa.jpg
+Chakradhaar,2012,Movie,Indian,High-Energy,tmdb:6.0,https://image.tmdb.org/t/p/w500/5XhiltI5eEyxHGWw8pWPTe8r1lI.jpg
+Dredd,2012,Movie,English,High-Energy,tmdb:6.8,https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg
+The Great Silence,1968,Movie,English,High-Energy,tmdb:7.5,https://image.tmdb.org/t/p/w500/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg
+Jung,2000,Movie,Indian,High-Energy,tmdb:4.8,https://image.tmdb.org/t/p/w500/nNNUkYlTjngVYM25N1O8o7abyIZ.jpg
+In a Valley of Violence,2016,Movie,English,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/j8XBfRFShrYzyp04NW9dSIL6Zm8.jpg
+The Matrix Resurrections,2021,Movie,English,High-Energy,tmdb:6.5,https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg
+Hum Se Hai Zamana,1983,Movie,Indian,High-Energy,tmdb:4.0,https://image.tmdb.org/t/p/w500/6a2MYAYw5eK7SsFTLChyJroLtT1.jpg
+Ready Player One,2018,Movie,English,High-Energy,tmdb:7.6,https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+Spider-Man,2002,Movie,English,High-Energy,tmdb:7.3,https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg
+Guardians of the Galaxy,2014,Movie,English,High-Energy,tmdb:7.9,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+Rampage,2018,Movie,English,High-Energy,tmdb:6.4,https://image.tmdb.org/t/p/w500/MGADip4thVSErP34FAAfzFBTZ5.jpg
+Mighty Morphin Power Rangers: The Movie,1995,Movie,English,High-Energy,tmdb:5.8,https://image.tmdb.org/t/p/w500/pcLbHqs80dchv0byHivhdwHKEup.jpg
+X-Men: First Class,2011,Movie,English,High-Energy,tmdb:7.3,https://image.tmdb.org/t/p/w500/vUvlOY575rztBuJV3a0dbHW5MQR.jpg
+The Predator,2018,Movie,English,High-Energy,tmdb:5.6,https://image.tmdb.org/t/p/w500/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+Panch Ratan,1965,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/vloQ6rmVte1GqnQcN8JEkOy4c7q.jpg
+Inkaar,2013,Movie,Indian,High-Energy,tmdb:5.5,https://image.tmdb.org/t/p/w500/nUKuIHr739jjBfqTmCO1HH94gCt.jpg
+Veer,1995,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/7E2ljyChT9SEW2YPSIj6uDEZevn.jpg
+Agent Vinod,1977,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/cTmhzD8xUZbqsYSOyJFOOTJNQZj.jpg
+Auzaar,1997,Movie,Indian,High-Energy,tmdb:6.6,https://image.tmdb.org/t/p/w500/6lchKwXaCNNzOr0sWorkww3yIZq.jpg
+Mad Max Beyond Thunderdome,1985,Movie,English,High-Energy,tmdb:6.2,https://image.tmdb.org/t/p/w500/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg
+Sindoor Ki Saugandh,2002,Movie,Indian,High-Energy,tmdb:0.0,
+The Legend of Zorro,2005,Movie,English,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/duZDsuIA2uX93Vujtm89oHeTFqE.jpg
+Primal,2019,Movie,English,High-Energy,tmdb:5.7,https://image.tmdb.org/t/p/w500/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg
+Kaala Sona,1975,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/rCz5Vmt29DCeOvWAiPobolSE5dK.jpg
+Power Rangers,2017,Movie,English,High-Energy,tmdb:6.3,https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
+Ink,2009,Movie,English,High-Energy,tmdb:6.4,https://image.tmdb.org/t/p/w500/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg
+Chinese Zodiac,2012,Movie,English,High-Energy,tmdb:6.2,https://image.tmdb.org/t/p/w500/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg
+Naach Govinda Naach,1992,Movie,Indian,High-Energy,tmdb:0.0,https://image.tmdb.org/t/p/w500/mlLfvqtYqi1AyBVOsFXIPtBOgCA.jpg
+X-Men,2000,Movie,English,High-Energy,tmdb:7.0,https://image.tmdb.org/t/p/w500/bRDAc4GogyS9ci3ow7UnInOcriN.jpg
+Lionheart,1990,Movie,English,High-Energy,tmdb:6.5,https://image.tmdb.org/t/p/w500/cH3ImNnkNirVG8x8yNlZaH8TQL2.jpg
+Fighting,2009,Movie,English,High-Energy,tmdb:5.9,https://image.tmdb.org/t/p/w500/xP1uogi5Gjnf6ybSN10lyDpqDlW.jpg
+Batman Returns,1992,Movie,English,High-Energy,tmdb:6.9,https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg
+Marvel One-Shot: Item 47,2012,Movie,English,High-Energy,tmdb:6.5,https://image.tmdb.org/t/p/w500/rfxvoRoZtBLUXJqLf8z9kgJWkKt.jpg
+Ek Hi Raasta,1993,Movie,Indian,High-Energy,tmdb:4.0,https://image.tmdb.org/t/p/w500/iJl31wwlTOYIWqVQsaXiQdtAaAN.jpg
+Chaos Walking,2021,Movie,English,High-Energy,tmdb:6.7,https://image.tmdb.org/t/p/w500/xAYGdGBGptNkisXRpmhZSry6SPF.jpg
+Zakhmi Aurat,1988,Movie,Indian,High-Energy,tmdb:5.0,https://image.tmdb.org/t/p/w500/3ToLWg2oQdN91A6uK5miRxLUCP2.jpg
+Blown Away,1994,Movie,English,High-Energy,tmdb:6.1,https://image.tmdb.org/t/p/w500/lszv2OiImvhzcTtfxDaNiHhTK7J.jpg
+Assassination Games,2011,Movie,English,High-Energy,tmdb:6.2,https://image.tmdb.org/t/p/w500/quJ0kXiQmP7rOg1m6WGmallQiJQ.jpg
+Total Recall,1990,Movie,English,High-Energy,tmdb:7.3,https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg
+Pirates of the Caribbean: On Stranger Tides,2011,Movie,English,High-Energy,tmdb:6.5,https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg
+The Scorpion King,2002,Movie,English,High-Energy,tmdb:5.6,https://image.tmdb.org/t/p/w500/aITIsX20tACn6jgtyDcCYpRT216.jpg
+The Gold-Laden Sheep and The Sacred Mountain,2018,Movie,Indian,Mind-Expanding,tmdb:8.3,https://image.tmdb.org/t/p/w500/vxHUGtN98nD0dqljeX1l1KrJrH9.jpg
+Neecha Nagar,1946,Movie,Indian,Mind-Expanding,tmdb:5.7,https://image.tmdb.org/t/p/w500/AvqVuC1UhpWgsX9yi0SkcbAWvpb.jpg
+Chhota Bheem: Bheem vs Aliens,2010,Movie,Indian,Mind-Expanding,tmdb:7.0,
+Geek Out,2013,Movie,Indian,Mind-Expanding,tmdb:10.0,https://image.tmdb.org/t/p/w500/f8Ntxc13SGPbpU8hAVOiXX1EzIf.jpg
+From the Shadows,2016,Movie,Indian,Mind-Expanding,tmdb:0.0,https://image.tmdb.org/t/p/w500/l1fd2u3Xpw0veoJrDhsloQkeM1r.jpg
+#Cafe2022,2021,Movie,Indian,Mind-Expanding,tmdb:0.0,https://image.tmdb.org/t/p/w500/aC6u39xBdZxNOccQGl6KcQJkFk5.jpg
+Please Mind the Gap,2018,Movie,Indian,Mind-Expanding,tmdb:0.0,https://image.tmdb.org/t/p/w500/rHJI2zE8LvrPkIsrbisW7OKUs3e.jpg
+Jaan Ki Baazi,1985,Movie,Indian,Mind-Expanding,tmdb:10.0,https://image.tmdb.org/t/p/w500/ihXHz7tYLMzvNMxdfNa2CcMuX4s.jpg
+A Mercedes for Ashish,2006,Movie,Indian,Mind-Expanding,tmdb:0.0,https://image.tmdb.org/t/p/w500/q5JDB9aqmJVrdplR93QuBbf8tSL.jpg
+The Seventh Walk,2013,Movie,Indian,Mind-Expanding,tmdb:6.8,https://image.tmdb.org/t/p/w500/jNhDP2G5fV3awmIZgVLgBmpb3SL.jpg
+The Golden Bird,2011,Movie,Indian,Mind-Expanding,tmdb:5.0,https://image.tmdb.org/t/p/w500/aCKmsKRxnaRkyaz6TPFJumb4fc3.jpg
+Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,2011,Movie,English,Mind-Expanding,tmdb:6.9,https://image.tmdb.org/t/p/w500/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg
+Monsters of Man,2020,Movie,English,Mind-Expanding,tmdb:6.5,https://image.tmdb.org/t/p/w500/1f3qspv64L5FXrRy0MF8X92ieuw.jpg
+Moonfall,2022,Movie,English,Mind-Expanding,tmdb:6.4,https://image.tmdb.org/t/p/w500/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg
+Prospect,2018,Movie,English,Mind-Expanding,tmdb:6.2,https://image.tmdb.org/t/p/w500/1HpAwszXLsD8GeypDzK0me7fPFA.jpg
+Big Ass Spider!,2013,Movie,English,Mind-Expanding,tmdb:5.7,https://image.tmdb.org/t/p/w500/uW4ayPN4B1mjrwb3OURRy0m9Hh7.jpg
